@@ -8,7 +8,16 @@ export type Values = "traditional" | "balanced" | "progressive";
 
 export type MaritalStatus = "never_married" | "divorced" | "widowed";
 
-export type ProfileStatus = "active" | "on_hold" | "intro_pending";
+export type ProfileStatus =
+  | "active"
+  | "on_hold"
+  | "intro_pending"
+  | "new"
+  | "profile_verified"
+  | "matching"
+  | "intro_sent"
+  | "meeting_scheduled"
+  | "closed";
 
 export type OccupationBucket =
   | "tech"
@@ -31,6 +40,7 @@ export type PartnerPreferences = {
 
 export type Profile = {
   id: string;
+  matchmakerId: string;
   firstName: string;
   lastName: string;
   gender: Gender;
@@ -54,6 +64,14 @@ export type Profile = {
   preferences: PartnerPreferences;
   matchmakerNotes: string;
   status: ProfileStatus;
+  verified?: boolean;
+  wantKids?: boolean;
+  openToRelocate?: boolean;
+  openToPets?: boolean;
+  about?: string;
+  religion?: string;
+  caste?: string;
+  email?: string;
 };
 
 export type DimensionKey =

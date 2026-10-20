@@ -1,0 +1,6323 @@
+[
+  {
+    "id": "aadhya-agarwal-1",
+    "matchmakerId": "priya",
+    "firstName": "Aadhya",
+    "lastName": "Agarwal",
+    "gender": "woman",
+    "age": 26,
+    "heightCm": 156,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Bengali",
+    "gotra": "Kashyap",
+    "motherTongue": "Bengali",
+    "education": "MBBS, MD (Medicine), AIIMS New Delhi",
+    "educationRank": 4,
+    "occupation": "Consultant Pediatrician",
+    "occupationBucket": "medicine",
+    "incomeLakh": 30,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "progressive",
+    "bio": "Early morning runner, filter-coffee purist, and weekend ceramicist who cherishes quiet home evenings.",
+    "about": "Early morning runner, filter-coffee purist, and weekend ceramicist who cherishes quiet home evenings.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 28,
+      "cities": [
+        "Dubai",
+        "Bengaluru",
+        "London"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate is independent, lives on own, and values financial transparency and shared home roles.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Bengali"
+  },
+  {
+    "id": "aanya-bansal-2",
+    "matchmakerId": "rakesh",
+    "firstName": "Aanya",
+    "lastName": "Bansal",
+    "gender": "woman",
+    "age": 27,
+    "heightCm": 150,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Atri",
+    "motherTongue": "Marathi",
+    "education": "BA LLB (Hons), NALSAR Hyderabad",
+    "educationRank": 4,
+    "occupation": "Management Consultant",
+    "occupationBucket": "other",
+    "incomeLakh": 33,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "progressive",
+    "bio": "Believes family dinners are non-negotiable; enjoys hosting terrace barbecues and exploring heritage art walks.",
+    "about": "Believes family dinners are non-negotiable; enjoys hosting terrace barbecues and exploring heritage art walks.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 31,
+      "cities": [
+        "Pune"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "aditi-goel-3",
+    "matchmakerId": "priya",
+    "firstName": "Aditi",
+    "lastName": "Goel",
+    "gender": "woman",
+    "age": 23,
+    "heightCm": 153,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "B.Com (Hons), Narsee Monjee",
+    "educationRank": 3,
+    "occupation": "Managing Director, Family Textiles",
+    "occupationBucket": "business",
+    "incomeLakh": 19,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Driven tech strategist on weekdays; spends Saturdays volunteering at animal shelters and baking sourdough.",
+    "about": "Driven tech strategist on weekdays; spends Saturdays volunteering at animal shelters and baking sourdough.",
+    "preferences": {
+      "ageMin": 22,
+      "ageMax": 25,
+      "cities": [
+        "Pune"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "ahana-gupta-4",
+    "matchmakerId": "rakesh",
+    "firstName": "Ahana",
+    "lastName": "Gupta",
+    "gender": "woman",
+    "age": 36,
+    "heightCm": 152,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Tamil Brahmin",
+    "gotra": "Vadhula",
+    "motherTongue": "Tamil",
+    "education": "MA Public Policy, NLSIU",
+    "educationRank": 4,
+    "occupation": "Policy Research Specialist, NITI Aayog",
+    "occupationBucket": "public",
+    "incomeLakh": 34,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Rooted in classical Bharatanatyam while thriving in fast-paced corporate product roadmaps.",
+    "about": "Rooted in classical Bharatanatyam while thriving in fast-paced corporate product roadmaps.",
+    "preferences": {
+      "ageMin": 35,
+      "ageMax": 38,
+      "cities": [
+        "Kolkata",
+        "Dubai",
+        "Bengaluru"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Prefers someone with a calm demeanor. Both parents are retired professionals.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "alisha-mittal-5",
+    "matchmakerId": "priya",
+    "firstName": "Alisha",
+    "lastName": "Mittal",
+    "gender": "woman",
+    "age": 36,
+    "heightCm": 169,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "B.Com (Hons), Narsee Monjee",
+    "educationRank": 3,
+    "occupation": "Partner, Construction & Infra Firm",
+    "occupationBucket": "business",
+    "incomeLakh": 76,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "A thoughtful listener with a warm sense of humor, fond of monsoon road trips and indie bookshops.",
+    "about": "A thoughtful listener with a warm sense of humor, fond of monsoon road trips and indie bookshops.",
+    "preferences": {
+      "ageMin": 35,
+      "ageMax": 38,
+      "cities": [
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Candidate is independent, lives on own, and values financial transparency and shared home roles.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "ananya-singhal-6",
+    "matchmakerId": "rakesh",
+    "firstName": "Ananya",
+    "lastName": "Singhal",
+    "gender": "woman",
+    "age": 30,
+    "heightCm": 169,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "MA Public Policy, NLSIU",
+    "educationRank": 4,
+    "occupation": "State Civil Services Officer",
+    "occupationBucket": "public",
+    "incomeLakh": 24,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Values intellectual depth, open communication, and laughing through failed culinary experiments.",
+    "about": "Values intellectual depth, open communication, and laughing through failed culinary experiments.",
+    "preferences": {
+      "ageMin": 29,
+      "ageMax": 32,
+      "cities": [
+        "Pune"
+      ],
+      "communities": [
+        "Malayali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "anika-garg-7",
+    "matchmakerId": "priya",
+    "firstName": "Anika",
+    "lastName": "Garg",
+    "gender": "woman",
+    "age": 27,
+    "heightCm": 153,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Patel",
+    "gotra": "Kashyap",
+    "motherTongue": "Gujarati",
+    "education": "B.Des, National Institute of Design",
+    "educationRank": 3,
+    "occupation": "Creative Producer & Filmmaker",
+    "occupationBucket": "creative",
+    "incomeLakh": 26,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "jain",
+    "values": "balanced",
+    "bio": "Balanced modern perspective grounded in respectful family traditions; passionate about sustainable architecture.",
+    "about": "Balanced modern perspective grounded in respectful family traditions; passionate about sustainable architecture.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 33,
+      "cities": [
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "anushka-sharma-8",
+    "matchmakerId": "rakesh",
+    "firstName": "Anushka",
+    "lastName": "Sharma",
+    "gender": "woman",
+    "age": 27,
+    "heightCm": 170,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "MBBS, MD (Medicine), AIIMS New Delhi",
+    "educationRank": 4,
+    "occupation": "Dental Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 32,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "progressive",
+    "bio": "Avid badminton player and amateur violinist looking for someone who values career ambition and personal downtime.",
+    "about": "Avid badminton player and amateur violinist looking for someone who values career ambition and personal downtime.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 29,
+      "cities": [
+        "Pune",
+        "Chennai"
+      ],
+      "communities": [
+        "Malayali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "avani-verma-9",
+    "matchmakerId": "priya",
+    "firstName": "Avani",
+    "lastName": "Verma",
+    "gender": "woman",
+    "age": 29,
+    "heightCm": 158,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Agarwal",
+    "gotra": "Singhal",
+    "motherTongue": "Hindi",
+    "education": "MS in Computer Science, CMU",
+    "educationRank": 4,
+    "occupation": "Mobile Tech Lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 51,
+    "maritalStatus": "divorced",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Loves Sunday crosswords, old Hindi melodies, and impromptu travel plans across coastal towns.",
+    "about": "Loves Sunday crosswords, old Hindi melodies, and impromptu travel plans across coastal towns.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 32,
+      "cities": [
+        "Mumbai",
+        "Hyderabad",
+        "Kolkata"
+      ],
+      "communities": [
+        "Agarwal"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Agarwal"
+  },
+  {
+    "id": "bhavna-trivedi-10",
+    "matchmakerId": "rakesh",
+    "firstName": "Bhavna",
+    "lastName": "Trivedi",
+    "gender": "woman",
+    "age": 28,
+    "heightCm": 167,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "community": "Jain",
+    "gotra": "Parshvanath",
+    "motherTongue": "Hindi",
+    "education": "MBBS, MD (Medicine), AIIMS New Delhi",
+    "educationRank": 4,
+    "occupation": "Senior Resident, Cardiology",
+    "occupationBucket": "medicine",
+    "incomeLakh": 33,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "balanced",
+    "bio": "Warm-hearted CA who manages spreadsheets with precision and weekend treks with pure enthusiasm.",
+    "about": "Warm-hearted CA who manages spreadsheets with precision and weekend treks with pure enthusiasm.",
+    "preferences": {
+      "ageMin": 27,
+      "ageMax": 33,
+      "cities": [
+        "Bengaluru",
+        "Pune",
+        "Dubai"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Prefers someone with a calm demeanor. Both parents are retired professionals.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "charu-pandey-11",
+    "matchmakerId": "priya",
+    "firstName": "Charu",
+    "lastName": "Pandey",
+    "gender": "woman",
+    "age": 24,
+    "heightCm": 166,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Jain",
+    "gotra": "Gautam",
+    "motherTongue": "Hindi",
+    "education": "BA LLB (Hons), NALSAR Hyderabad",
+    "educationRank": 4,
+    "occupation": "Senior HR Business Partner",
+    "occupationBucket": "other",
+    "incomeLakh": 21,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Passionate pediatric resident who unwinds with watercolor painting and deep family conversations.",
+    "about": "Passionate pediatric resident who unwinds with watercolor painting and deep family conversations.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 29,
+      "cities": [
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "deepika-mishra-12",
+    "matchmakerId": "rakesh",
+    "firstName": "Deepika",
+    "lastName": "Mishra",
+    "gender": "woman",
+    "age": 22,
+    "heightCm": 173,
+    "city": "London",
+    "state": "United Kingdom",
+    "community": "Tamil Brahmin",
+    "gotra": "Kashyapa",
+    "motherTongue": "Tamil",
+    "education": "MBA, SPJIMR Mumbai",
+    "educationRank": 4,
+    "occupation": "VP, Risk Management",
+    "occupationBucket": "finance",
+    "incomeLakh": 14,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Pragmatic, emotionally grounded, and loves finding hidden coffee spots in old city quarters.",
+    "about": "Pragmatic, emotionally grounded, and loves finding hidden coffee spots in old city quarters.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 25,
+      "cities": [
+        "London"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "dia-chaturvedi-13",
+    "matchmakerId": "priya",
+    "firstName": "Dia",
+    "lastName": "Chaturvedi",
+    "gender": "woman",
+    "age": 38,
+    "heightCm": 175,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Vashishta",
+    "motherTongue": "Marathi",
+    "education": "B.Des, National Institute of Design",
+    "educationRank": 3,
+    "occupation": "Lead Interior Architect",
+    "occupationBucket": "creative",
+    "incomeLakh": 60,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Equal parts ambitious and domestic; enjoys organizing intimate dinners with close friends and cousins.",
+    "about": "Equal parts ambitious and domestic; enjoys organizing intimate dinners with close friends and cousins.",
+    "preferences": {
+      "ageMin": 37,
+      "ageMax": 42,
+      "cities": [
+        "Bengaluru",
+        "Mumbai",
+        "London"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "divya-kapoor-14",
+    "matchmakerId": "rakesh",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "gender": "woman",
+    "age": 35,
+    "heightCm": 153,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Tamil Brahmin",
+    "gotra": "Kashyapa",
+    "motherTongue": "Tamil",
+    "education": "MBBS, MS (Surgery), CMC Vellore",
+    "educationRank": 4,
+    "occupation": "Radiologist",
+    "occupationBucket": "medicine",
+    "incomeLakh": 58,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Close to her grandparents, deeply respectful of traditions, yet completely independent in thought.",
+    "about": "Close to her grandparents, deeply respectful of traditions, yet completely independent in thought.",
+    "preferences": {
+      "ageMin": 34,
+      "ageMax": 37,
+      "cities": [
+        "Mumbai"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "garima-khanna-15",
+    "matchmakerId": "priya",
+    "firstName": "Garima",
+    "lastName": "Khanna",
+    "gender": "woman",
+    "age": 36,
+    "heightCm": 170,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Tamil Brahmin",
+    "gotra": "Kaushika",
+    "motherTongue": "Tamil",
+    "education": "CA, First Attempt (Ranked)",
+    "educationRank": 4,
+    "occupation": "Portfolio Strategist",
+    "occupationBucket": "finance",
+    "incomeLakh": 68,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Tech professional who values mental wellness, mindfulness retreats, and board game marathons.",
+    "about": "Tech professional who values mental wellness, mindfulness retreats, and board game marathons.",
+    "preferences": {
+      "ageMin": 35,
+      "ageMax": 39,
+      "cities": [
+        "Pune",
+        "Hyderabad",
+        "Dubai"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "gauri-malhotra-16",
+    "matchmakerId": "rakesh",
+    "firstName": "Gauri",
+    "lastName": "Malhotra",
+    "gender": "woman",
+    "age": 26,
+    "heightCm": 169,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Marathi",
+    "education": "BA LLB (Hons), NALSAR Hyderabad",
+    "educationRank": 4,
+    "occupation": "Corporate Legal Counsel",
+    "occupationBucket": "other",
+    "incomeLakh": 26,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Design lead with an eye for aesthetics and an undeniable weakness for street food and old cinema.",
+    "about": "Design lead with an eye for aesthetics and an undeniable weakness for street food and old cinema.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 32,
+      "cities": [
+        "Mumbai",
+        "Chennai"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Prefers someone with a calm demeanor. Both parents are retired professionals.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "isha-sethi-17",
+    "matchmakerId": "priya",
+    "firstName": "Isha",
+    "lastName": "Sethi",
+    "gender": "woman",
+    "age": 27,
+    "heightCm": 168,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "BA LLB (Hons), NALSAR Hyderabad",
+    "educationRank": 4,
+    "occupation": "Global Supply Chain Lead",
+    "occupationBucket": "other",
+    "incomeLakh": 34,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Easygoing nature paired with clear long-term goals; dreams of building a home filled with books and plants.",
+    "about": "Easygoing nature paired with clear long-term goals; dreams of building a home filled with books and plants.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 33,
+      "cities": [
+        "Dubai",
+        "New York",
+        "Delhi"
+      ],
+      "communities": [
+        "Malayali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "ishani-bhasin-18",
+    "matchmakerId": "rakesh",
+    "firstName": "Ishani",
+    "lastName": "Bhasin",
+    "gender": "woman",
+    "age": 22,
+    "heightCm": 150,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "CFA, Level 3 Qualified",
+    "educationRank": 4,
+    "occupation": "Private Equity Analyst",
+    "occupationBucket": "finance",
+    "incomeLakh": 15,
+    "maritalStatus": "divorced",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Loves mountain hikes, Carnatic concerts, and meaningful conversations that go beyond small talk.",
+    "about": "Loves mountain hikes, Carnatic concerts, and meaningful conversations that go beyond small talk.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 28,
+      "cities": [
+        "Kolkata",
+        "Mumbai",
+        "Hyderabad"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "jasleen-chadha-19",
+    "matchmakerId": "priya",
+    "firstName": "Jasleen",
+    "lastName": "Chadha",
+    "gender": "woman",
+    "age": 35,
+    "heightCm": 161,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "community": "Patel",
+    "gotra": "Kashyap",
+    "motherTongue": "Gujarati",
+    "education": "B.Tech, IIT Bombay",
+    "educationRank": 4,
+    "occupation": "Mobile Tech Lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 70,
+    "maritalStatus": "divorced",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Empathetic, clear-headed, and dedicated to both professional excellence and family harmony.",
+    "about": "Empathetic, clear-headed, and dedicated to both professional excellence and family harmony.",
+    "preferences": {
+      "ageMin": 34,
+      "ageMax": 39,
+      "cities": [
+        "Indore"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "kavya-patel-20",
+    "matchmakerId": "rakesh",
+    "firstName": "Kavya",
+    "lastName": "Patel",
+    "gender": "woman",
+    "age": 29,
+    "heightCm": 170,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "community": "Bengali",
+    "gotra": "Kashyap",
+    "motherTongue": "Bengali",
+    "education": "MBA HR, XLRI Jamshedpur",
+    "educationRank": 4,
+    "occupation": "Global Supply Chain Lead",
+    "occupationBucket": "other",
+    "incomeLakh": 37,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Grounded Gujarati girl who can talk balance sheets or Garba steps with equal passion.",
+    "about": "Grounded Gujarati girl who can talk balance sheets or Garba steps with equal passion.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 31,
+      "cities": [
+        "Bengaluru",
+        "Hyderabad",
+        "Kolkata"
+      ],
+      "communities": [
+        "Bengali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Bengali"
+  },
+  {
+    "id": "keerthi-shah-21",
+    "matchmakerId": "priya",
+    "firstName": "Keerthi",
+    "lastName": "Shah",
+    "gender": "woman",
+    "age": 26,
+    "heightCm": 167,
+    "city": "New York",
+    "state": "United States",
+    "community": "Tamil Brahmin",
+    "gotra": "Vadhula",
+    "motherTongue": "Tamil",
+    "education": "M.Com, Shri Ram College of Commerce",
+    "educationRank": 3,
+    "occupation": "Investment Banking Associate",
+    "occupationBucket": "finance",
+    "incomeLakh": 27,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Creative director who loves interior styling, flea markets, and peaceful tea on the balcony.",
+    "about": "Creative director who loves interior styling, flea markets, and peaceful tea on the balcony.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 28,
+      "cities": [
+        "New York",
+        "Delhi",
+        "Bengaluru"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "khushi-mehta-22",
+    "matchmakerId": "rakesh",
+    "firstName": "Khushi",
+    "lastName": "Mehta",
+    "gender": "woman",
+    "age": 32,
+    "heightCm": 170,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "community": "Jain",
+    "gotra": "Parshvanath",
+    "motherTongue": "Hindi",
+    "education": "MBA HR, XLRI Jamshedpur",
+    "educationRank": 4,
+    "occupation": "Senior HR Business Partner",
+    "occupationBucket": "other",
+    "incomeLakh": 44,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Believes a great marriage thrives on mutual respect, shared laughter, and personal space.",
+    "about": "Believes a great marriage thrives on mutual respect, shared laughter, and personal space.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 34,
+      "cities": [
+        "Bhopal",
+        "Singapore",
+        "Chennai"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "kriti-desai-23",
+    "matchmakerId": "priya",
+    "firstName": "Kriti",
+    "lastName": "Desai",
+    "gender": "woman",
+    "age": 24,
+    "heightCm": 173,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MBBS, MD (Medicine), AIIMS New Delhi",
+    "educationRank": 4,
+    "occupation": "Dental Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 19,
+    "maritalStatus": "divorced",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Spiritual yet progressive; cherishes festival celebrations and quiet reading corners alike.",
+    "about": "Spiritual yet progressive; cherishes festival celebrations and quiet reading corners alike.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 28,
+      "cities": [
+        "Bhopal",
+        "Pune",
+        "Delhi"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "lavanya-joshi-24",
+    "matchmakerId": "rakesh",
+    "firstName": "Lavanya",
+    "lastName": "Joshi",
+    "gender": "woman",
+    "age": 31,
+    "heightCm": 168,
+    "city": "Delhi",
+    "state": "Delhi",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MBA HR, XLRI Jamshedpur",
+    "educationRank": 4,
+    "occupation": "Management Consultant",
+    "occupationBucket": "other",
+    "incomeLakh": 47,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Enjoys weekend cycling, specialty brewing, and honest conversations over long walks.",
+    "about": "Enjoys weekend cycling, specialty brewing, and honest conversations over long walks.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 34,
+      "cities": [
+        "Delhi"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "madhuri-parikh-25",
+    "matchmakerId": "priya",
+    "firstName": "Madhuri",
+    "lastName": "Parikh",
+    "gender": "woman",
+    "age": 33,
+    "heightCm": 162,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "community": "Jain",
+    "gotra": "Kashyap",
+    "motherTongue": "Hindi",
+    "education": "CFA, Level 3 Qualified",
+    "educationRank": 4,
+    "occupation": "Chartered Accountant",
+    "occupationBucket": "finance",
+    "incomeLakh": 55,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "jain",
+    "values": "progressive",
+    "bio": "Warm personality with an infectious laugh; believes in growing together while celebrating each other's wins.",
+    "about": "Warm personality with an infectious laugh; believes in growing together while celebrating each other's wins.",
+    "preferences": {
+      "ageMin": 32,
+      "ageMax": 36,
+      "cities": [
+        "Indore",
+        "Singapore",
+        "Dubai"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "mansi-iyer-26",
+    "matchmakerId": "rakesh",
+    "firstName": "Mansi",
+    "lastName": "Iyer",
+    "gender": "woman",
+    "age": 26,
+    "heightCm": 151,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MBBS, MS (Surgery), CMC Vellore",
+    "educationRank": 4,
+    "occupation": "Senior Resident, Cardiology",
+    "occupationBucket": "medicine",
+    "incomeLakh": 25,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Calm presence in a busy city, fond of historical podcasts, gardening, and family gatherings.",
+    "about": "Calm presence in a busy city, fond of historical podcasts, gardening, and family gatherings.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 30,
+      "cities": [
+        "Dubai",
+        "Singapore",
+        "Chennai"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "meenakshi-iyengar-27",
+    "matchmakerId": "priya",
+    "firstName": "Meenakshi",
+    "lastName": "Iyengar",
+    "gender": "woman",
+    "age": 24,
+    "heightCm": 157,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Agarwal",
+    "gotra": "Mittal",
+    "motherTongue": "Hindi",
+    "education": "CFA, Level 3 Qualified",
+    "educationRank": 4,
+    "occupation": "VP, Risk Management",
+    "occupationBucket": "finance",
+    "incomeLakh": 28,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Passionate about education and social impact; enjoys theatre weekends and culinary experiments.",
+    "about": "Passionate about education and social impact; enjoys theatre weekends and culinary experiments.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 30,
+      "cities": [
+        "Mumbai"
+      ],
+      "communities": [
+        "Agarwal"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Agarwal"
+  },
+  {
+    "id": "meera-natarajan-28",
+    "matchmakerId": "rakesh",
+    "firstName": "Meera",
+    "lastName": "Natarajan",
+    "gender": "woman",
+    "age": 31,
+    "heightCm": 150,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "community": "Agarwal",
+    "gotra": "Goel",
+    "motherTongue": "Hindi",
+    "education": "B.Tech & State Admin Services",
+    "educationRank": 3,
+    "occupation": "Policy Research Specialist, NITI Aayog",
+    "occupationBucket": "public",
+    "incomeLakh": 29,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Independent architect who loves minimalist design, classical vocal music, and thoughtful travel.",
+    "about": "Independent architect who loves minimalist design, classical vocal music, and thoughtful travel.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 36,
+      "cities": [
+        "Chennai",
+        "Singapore",
+        "London"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "on_hold",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Agarwal"
+  },
+  {
+    "id": "mitali-subramanian-29",
+    "matchmakerId": "priya",
+    "firstName": "Mitali",
+    "lastName": "Subramanian",
+    "gender": "woman",
+    "age": 38,
+    "heightCm": 161,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Jain",
+    "gotra": "Gautam",
+    "motherTongue": "Hindi",
+    "education": "MBA Finance, IIM Ahmedabad",
+    "educationRank": 4,
+    "occupation": "Investment Banking Associate",
+    "occupationBucket": "finance",
+    "incomeLakh": 81,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "balanced",
+    "bio": "Known among friends for her sharp wit, loyalty, and unmatched playlist curation skills.",
+    "about": "Known among friends for her sharp wit, loyalty, and unmatched playlist curation skills.",
+    "preferences": {
+      "ageMin": 37,
+      "ageMax": 44,
+      "cities": [
+        "Kolkata",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "navya-raman-30",
+    "matchmakerId": "rakesh",
+    "firstName": "Navya",
+    "lastName": "Raman",
+    "gender": "woman",
+    "age": 22,
+    "heightCm": 160,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Patel",
+    "gotra": "Sandilya",
+    "motherTongue": "Gujarati",
+    "education": "B.Tech + MBA, Symbiosis Pune",
+    "educationRank": 3,
+    "occupation": "Corporate Legal Counsel",
+    "occupationBucket": "other",
+    "incomeLakh": 19,
+    "maritalStatus": "divorced",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "progressive",
+    "bio": "Family-oriented professional who values financial prudence, emotional security, and good humor.",
+    "about": "Family-oriented professional who values financial prudence, emotional security, and good humor.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 27,
+      "cities": [
+        "Mumbai",
+        "Delhi",
+        "Pune"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "neha-balaji-31",
+    "matchmakerId": "priya",
+    "firstName": "Neha",
+    "lastName": "Balaji",
+    "gender": "woman",
+    "age": 32,
+    "heightCm": 156,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Punjabi Khatri",
+    "gotra": "Sahni",
+    "motherTongue": "Punjabi",
+    "education": "MBBS, MS (Surgery), CMC Vellore",
+    "educationRank": 4,
+    "occupation": "Orthopedic Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 45,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Cherishes her morning meditation, Sunday brunch routines, and sincere, transparent conversations.",
+    "about": "Cherishes her morning meditation, Sunday brunch routines, and sincere, transparent conversations.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 34,
+      "cities": [
+        "Pune",
+        "Hyderabad",
+        "New York"
+      ],
+      "communities": [
+        "Punjabi Khatri"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Punjabi Khatri"
+  },
+  {
+    "id": "nidhi-reddy-32",
+    "matchmakerId": "rakesh",
+    "firstName": "Nidhi",
+    "lastName": "Reddy",
+    "gender": "woman",
+    "age": 23,
+    "heightCm": 158,
+    "city": "New York",
+    "state": "United States",
+    "community": "Reddy",
+    "gotra": "Pedakanti",
+    "motherTongue": "Telugu",
+    "education": "MBA, ISB Hyderabad",
+    "educationRank": 4,
+    "occupation": "Founder & CEO, D2C Wellness",
+    "occupationBucket": "business",
+    "incomeLakh": 27,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Doctor by profession, nature lover at heart, seeking a compassionate partner to share life's simple joys.",
+    "about": "Doctor by profession, nature lover at heart, seeking a compassionate partner to share life's simple joys.",
+    "preferences": {
+      "ageMin": 22,
+      "ageMax": 26,
+      "cities": [
+        "New York"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "niharika-rao-33",
+    "matchmakerId": "priya",
+    "firstName": "Niharika",
+    "lastName": "Rao",
+    "gender": "woman",
+    "age": 35,
+    "heightCm": 157,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Jamadagni",
+    "motherTongue": "Marathi",
+    "education": "MBA HR, XLRI Jamshedpur",
+    "educationRank": 4,
+    "occupation": "Senior HR Business Partner",
+    "occupationBucket": "other",
+    "incomeLakh": 61,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Thoughtful and articulate; enjoys live music gigs, dog walking, and planning yearly beach trips.",
+    "about": "Thoughtful and articulate; enjoys live music gigs, dog walking, and planning yearly beach trips.",
+    "preferences": {
+      "ageMin": 34,
+      "ageMax": 39,
+      "cities": [
+        "Pune",
+        "Mumbai",
+        "Bengaluru"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "pallavi-chowdary-34",
+    "matchmakerId": "rakesh",
+    "firstName": "Pallavi",
+    "lastName": "Chowdary",
+    "gender": "woman",
+    "age": 23,
+    "heightCm": 171,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "BA (Hons) History, St. Stephen's; UPSC CSE",
+    "educationRank": 4,
+    "occupation": "Deputy Director, Ministry of Commerce",
+    "occupationBucket": "public",
+    "incomeLakh": 14,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Values simplicity, ethical living, and a partner who treats everyone with kindness.",
+    "about": "Values simplicity, ethical living, and a partner who treats everyone with kindness.",
+    "preferences": {
+      "ageMin": 22,
+      "ageMax": 25,
+      "cities": [
+        "Chennai",
+        "Delhi",
+        "Hyderabad"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "pooja-naidu-35",
+    "matchmakerId": "priya",
+    "firstName": "Pooja",
+    "lastName": "Naidu",
+    "gender": "woman",
+    "age": 26,
+    "heightCm": 156,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "B.Tech, IIT Bombay",
+    "educationRank": 4,
+    "occupation": "DevOps Lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 40,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "progressive",
+    "bio": "Dynamic corporate lawyer who prioritizes family get-togethers and evening strolls after work.",
+    "about": "Dynamic corporate lawyer who prioritizes family get-togethers and evening strolls after work.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 30,
+      "cities": [
+        "Mumbai",
+        "London",
+        "New York"
+      ],
+      "communities": [
+        "Malayali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "prachi-varma-36",
+    "matchmakerId": "rakesh",
+    "firstName": "Prachi",
+    "lastName": "Varma",
+    "gender": "woman",
+    "age": 36,
+    "heightCm": 164,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "community": "Reddy",
+    "gotra": "Motati",
+    "motherTongue": "Telugu",
+    "education": "MBBS, MD (Medicine), AIIMS New Delhi",
+    "educationRank": 4,
+    "occupation": "Senior Resident, Cardiology",
+    "occupationBucket": "medicine",
+    "incomeLakh": 57,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Loves cooking regional delicacies from scratch and curling up with non-fiction history.",
+    "about": "Loves cooking regional delicacies from scratch and curling up with non-fiction history.",
+    "preferences": {
+      "ageMin": 35,
+      "ageMax": 41,
+      "cities": [
+        "Bhopal"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "prerna-banerjee-37",
+    "matchmakerId": "priya",
+    "firstName": "Prerna",
+    "lastName": "Banerjee",
+    "gender": "woman",
+    "age": 22,
+    "heightCm": 173,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Agarwal",
+    "gotra": "Singhal",
+    "motherTongue": "Hindi",
+    "education": "B.Tech & State Admin Services",
+    "educationRank": 3,
+    "occupation": "State Civil Services Officer",
+    "occupationBucket": "public",
+    "incomeLakh": 11,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Optimistic and supportive; believes life is best enjoyed with curiosity, kindness, and humor.",
+    "about": "Optimistic and supportive; believes life is best enjoyed with curiosity, kindness, and humor.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 27,
+      "cities": [
+        "Kolkata",
+        "Pune",
+        "Chennai"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Agarwal"
+  },
+  {
+    "id": "radhika-mukherjee-38",
+    "matchmakerId": "rakesh",
+    "firstName": "Radhika",
+    "lastName": "Mukherjee",
+    "gender": "woman",
+    "age": 22,
+    "heightCm": 154,
+    "city": "London",
+    "state": "United Kingdom",
+    "community": "Tamil Brahmin",
+    "gotra": "Gauthama",
+    "motherTongue": "Tamil",
+    "education": "MBA HR, XLRI Jamshedpur",
+    "educationRank": 4,
+    "occupation": "Global Supply Chain Lead",
+    "occupationBucket": "other",
+    "incomeLakh": 16,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Enthusiastic photographer who captures family moments and loves weekend drives through the hills.",
+    "about": "Enthusiastic photographer who captures family moments and loves weekend drives through the hills.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 24,
+      "cities": [
+        "London",
+        "Mumbai",
+        "Chennai"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "active",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "rashmi-chatterjee-39",
+    "matchmakerId": "priya",
+    "firstName": "Rashmi",
+    "lastName": "Chatterjee",
+    "gender": "woman",
+    "age": 38,
+    "heightCm": 151,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Tamil Brahmin",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Tamil",
+    "education": "MBBS, MS (Surgery), CMC Vellore",
+    "educationRank": 4,
+    "occupation": "Dental Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 61,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Comfortable in traditional silk sarees and trekking boots alike; values emotional honesty above all.",
+    "about": "Comfortable in traditional silk sarees and trekking boots alike; values emotional honesty above all.",
+    "preferences": {
+      "ageMin": 37,
+      "ageMax": 40,
+      "cities": [
+        "Hyderabad"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "rhea-bose-40",
+    "matchmakerId": "rakesh",
+    "firstName": "Rhea",
+    "lastName": "Bose",
+    "gender": "woman",
+    "age": 24,
+    "heightCm": 151,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Punjabi Khatri",
+    "gotra": "Malhotra",
+    "motherTongue": "Punjabi",
+    "education": "M.Sc International Business, Manchester",
+    "educationRank": 4,
+    "occupation": "Founder & CEO, D2C Wellness",
+    "occupationBucket": "business",
+    "incomeLakh": 33,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Strategic thinker at work, warm daughter and sister at home; seeks an equal partner in every sense.",
+    "about": "Strategic thinker at work, warm daughter and sister at home; seeks an equal partner in every sense.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 27,
+      "cities": [
+        "Pune"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Punjabi Khatri"
+  },
+  {
+    "id": "riddhima-ghosh-41",
+    "matchmakerId": "priya",
+    "firstName": "Riddhima",
+    "lastName": "Ghosh",
+    "gender": "woman",
+    "age": 31,
+    "heightCm": 173,
+    "city": "New York",
+    "state": "United States",
+    "community": "Patel",
+    "gotra": "Vatsa",
+    "motherTongue": "Gujarati",
+    "education": "B.Arch, SPA Delhi",
+    "educationRank": 3,
+    "occupation": "Creative Producer & Filmmaker",
+    "occupationBucket": "creative",
+    "incomeLakh": 35,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Enjoys poetry recitals, heritage walks, and spending festive holidays surrounded by cousins.",
+    "about": "Enjoys poetry recitals, heritage walks, and spending festive holidays surrounded by cousins.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 36,
+      "cities": [
+        "New York"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "riya-sen-42",
+    "matchmakerId": "rakesh",
+    "firstName": "Riya",
+    "lastName": "Sen",
+    "gender": "woman",
+    "age": 23,
+    "heightCm": 160,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "community": "Patel",
+    "gotra": "Sandilya",
+    "motherTongue": "Gujarati",
+    "education": "M.Com, Shri Ram College of Commerce",
+    "educationRank": 3,
+    "occupation": "Portfolio Strategist",
+    "occupationBucket": "finance",
+    "incomeLakh": 14,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "balanced",
+    "bio": "Rooted in South Indian traditions, enjoys modern art galleries and weekend baking rituals.",
+    "about": "Rooted in South Indian traditions, enjoys modern art galleries and weekend baking rituals.",
+    "preferences": {
+      "ageMin": 22,
+      "ageMax": 25,
+      "cities": [
+        "Chennai",
+        "Hyderabad",
+        "Mumbai"
+      ],
+      "communities": [],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "roshni-jain-43",
+    "matchmakerId": "priya",
+    "firstName": "Roshni",
+    "lastName": "Jain",
+    "gender": "woman",
+    "age": 28,
+    "heightCm": 153,
+    "city": "Singapore",
+    "state": "Singapore",
+    "community": "Patel",
+    "gotra": "Sandilya",
+    "motherTongue": "Gujarati",
+    "education": "M.Arch, CEPT University",
+    "educationRank": 4,
+    "occupation": "Creative Producer & Filmmaker",
+    "occupationBucket": "creative",
+    "incomeLakh": 27,
+    "maritalStatus": "divorced",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Quiet confidence with a big heart; seeks a genuine companionship built on trust and shared values.",
+    "about": "Quiet confidence with a big heart; seeks a genuine companionship built on trust and shared values.",
+    "preferences": {
+      "ageMin": 27,
+      "ageMax": 33,
+      "cities": [
+        "Singapore",
+        "Kolkata"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate is independent, lives on own, and values financial transparency and shared home roles.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "sakshi-lodha-44",
+    "matchmakerId": "rakesh",
+    "firstName": "Sakshi",
+    "lastName": "Lodha",
+    "gender": "woman",
+    "age": 30,
+    "heightCm": 175,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Jain",
+    "gotra": "Kashyap",
+    "motherTongue": "Hindi",
+    "education": "B.E. Computer Science, VJTI",
+    "educationRank": 3,
+    "occupation": "AI/ML Research Scientist",
+    "occupationBucket": "tech",
+    "incomeLakh": 49,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "progressive",
+    "bio": "Financial analyst who balances career momentum with home-cooked meals and badminton matches.",
+    "about": "Financial analyst who balances career momentum with home-cooked meals and badminton matches.",
+    "preferences": {
+      "ageMin": 29,
+      "ageMax": 33,
+      "cities": [
+        "Jaipur"
+      ],
+      "communities": [],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "samiksha-kothari-45",
+    "matchmakerId": "priya",
+    "firstName": "Samiksha",
+    "lastName": "Kothari",
+    "gender": "woman",
+    "age": 37,
+    "heightCm": 172,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "community": "Jain",
+    "gotra": "Gautam",
+    "motherTongue": "Hindi",
+    "education": "M.Tech, IIIT Hyderabad",
+    "educationRank": 4,
+    "occupation": "Senior Frontend Engineer",
+    "occupationBucket": "tech",
+    "incomeLakh": 81,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Loves road trips, visiting ancient temples, and having late-night philosophical chats.",
+    "about": "Loves road trips, visiting ancient temples, and having late-night philosophical chats.",
+    "preferences": {
+      "ageMin": 36,
+      "ageMax": 41,
+      "cities": [
+        "Bhopal",
+        "Pune"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Prefers someone with a calm demeanor. Both parents are retired professionals.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "sanya-surana-46",
+    "matchmakerId": "rakesh",
+    "firstName": "Sanya",
+    "lastName": "Surana",
+    "gender": "woman",
+    "age": 29,
+    "heightCm": 153,
+    "city": "Delhi",
+    "state": "Delhi",
+    "community": "Agarwal",
+    "gotra": "Goel",
+    "motherTongue": "Hindi",
+    "education": "B.Tech & State Admin Services",
+    "educationRank": 3,
+    "occupation": "Assistant Commissioner, IRS",
+    "occupationBucket": "public",
+    "incomeLakh": 25,
+    "maritalStatus": "divorced",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Affectionate, organized, and deeply loyal; wants a partner who embraces both ambition and family warmth.",
+    "about": "Affectionate, organized, and deeply loyal; wants a partner who embraces both ambition and family warmth.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 31,
+      "cities": [
+        "Delhi",
+        "Dubai",
+        "Mumbai"
+      ],
+      "communities": [
+        "Agarwal"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Candidate is independent, lives on own, and values financial transparency and shared home roles.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Agarwal"
+  },
+  {
+    "id": "shambhavi-bhandari-47",
+    "matchmakerId": "priya",
+    "firstName": "Shambhavi",
+    "lastName": "Bhandari",
+    "gender": "woman",
+    "age": 38,
+    "heightCm": 173,
+    "city": "New York",
+    "state": "United States",
+    "community": "Jain",
+    "gotra": "Kashyap",
+    "motherTongue": "Hindi",
+    "education": "MBA, ISB Hyderabad",
+    "educationRank": 4,
+    "occupation": "Retail Chain Regional Head",
+    "occupationBucket": "business",
+    "incomeLakh": 93,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Believes in continuous self-improvement, fitness, and keeping weekends sacred for family.",
+    "about": "Believes in continuous self-improvement, fitness, and keeping weekends sacred for family.",
+    "preferences": {
+      "ageMin": 37,
+      "ageMax": 43,
+      "cities": [
+        "New York"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "shreya-khan-48",
+    "matchmakerId": "rakesh",
+    "firstName": "Shreya",
+    "lastName": "Khan",
+    "gender": "woman",
+    "age": 24,
+    "heightCm": 168,
+    "city": "New York",
+    "state": "United States",
+    "community": "Agarwal",
+    "gotra": "Mittal",
+    "motherTongue": "Hindi",
+    "education": "MS in Computer Science, CMU",
+    "educationRank": 4,
+    "occupation": "Principal Product Manager",
+    "occupationBucket": "tech",
+    "incomeLakh": 33,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Creative soul working in UI/UX; loves pottery, indie music festivals, and exploring street markets.",
+    "about": "Creative soul working in UI/UX; loves pottery, indie music festivals, and exploring street markets.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 28,
+      "cities": [
+        "New York"
+      ],
+      "communities": [
+        "Agarwal"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Agarwal"
+  },
+  {
+    "id": "shruti-ahmed-49",
+    "matchmakerId": "priya",
+    "firstName": "Shruti",
+    "lastName": "Ahmed",
+    "gender": "woman",
+    "age": 33,
+    "heightCm": 162,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "M.Com, Shri Ram College of Commerce",
+    "educationRank": 3,
+    "occupation": "Investment Banking Associate",
+    "occupationBucket": "finance",
+    "incomeLakh": 57,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Grounded personality with strong moral compass; loves evening terrace tea with parents.",
+    "about": "Grounded personality with strong moral compass; loves evening terrace tea with parents.",
+    "preferences": {
+      "ageMin": 32,
+      "ageMax": 37,
+      "cities": [
+        "Dubai",
+        "London",
+        "Mumbai"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "simran-syed-50",
+    "matchmakerId": "rakesh",
+    "firstName": "Simran",
+    "lastName": "Syed",
+    "gender": "woman",
+    "age": 32,
+    "heightCm": 151,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "community": "Tamil Brahmin",
+    "gotra": "Haritha",
+    "motherTongue": "Tamil",
+    "education": "BA LLB (Hons), NALSAR Hyderabad",
+    "educationRank": 4,
+    "occupation": "Senior HR Business Partner",
+    "occupationBucket": "other",
+    "incomeLakh": 46,
+    "maritalStatus": "divorced",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Curious traveler who collects postcards, reads architectural history, and loves quiet mornings.",
+    "about": "Curious traveler who collects postcards, reads architectural history, and loves quiet mornings.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 35,
+      "cities": [
+        "Bhopal",
+        "London",
+        "Mumbai"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "sneha-qureshi-51",
+    "matchmakerId": "priya",
+    "firstName": "Sneha",
+    "lastName": "Qureshi",
+    "gender": "woman",
+    "age": 38,
+    "heightCm": 170,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Patel",
+    "gotra": "Sandilya",
+    "motherTongue": "Gujarati",
+    "education": "B.Tech + MBA, Symbiosis Pune",
+    "educationRank": 3,
+    "occupation": "Management Consultant",
+    "occupationBucket": "other",
+    "incomeLakh": 70,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Balances corporate consulting with Hindustani classical vocals; values patience and warmth.",
+    "about": "Balances corporate consulting with Hindustani classical vocals; values patience and warmth.",
+    "preferences": {
+      "ageMin": 37,
+      "ageMax": 43,
+      "cities": [
+        "Pune",
+        "Mumbai",
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "sonali-mirza-52",
+    "matchmakerId": "rakesh",
+    "firstName": "Sonali",
+    "lastName": "Mirza",
+    "gender": "woman",
+    "age": 32,
+    "heightCm": 152,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MDS, Conservative Dentistry",
+    "educationRank": 4,
+    "occupation": "Dental Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 49,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Energetic, supportive, and loves planning family road trips across historic destinations.",
+    "about": "Energetic, supportive, and loves planning family road trips across historic destinations.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 34,
+      "cities": [
+        "Dubai",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Prefers someone with a calm demeanor. Both parents are retired professionals.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "tanvi-kulkarni-53",
+    "matchmakerId": "priya",
+    "firstName": "Tanvi",
+    "lastName": "Kulkarni",
+    "gender": "woman",
+    "age": 32,
+    "heightCm": 164,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Punjabi Khatri",
+    "gotra": "Khanna",
+    "motherTongue": "Punjabi",
+    "education": "B.Tech & State Admin Services",
+    "educationRank": 3,
+    "occupation": "Policy Research Specialist, NITI Aayog",
+    "occupationBucket": "public",
+    "incomeLakh": 29,
+    "maritalStatus": "widowed",
+    "familyType": "nuclear",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Believes emotional maturity and a sense of humor are the foundation of any lasting bond.",
+    "about": "Believes emotional maturity and a sense of humor are the foundation of any lasting bond.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 37,
+      "cities": [
+        "Hyderabad"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Punjabi Khatri"
+  },
+  {
+    "id": "tara-deshmukh-54",
+    "matchmakerId": "rakesh",
+    "firstName": "Tara",
+    "lastName": "Deshmukh",
+    "gender": "woman",
+    "age": 32,
+    "heightCm": 162,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Marathi",
+    "education": "M.Tech, IIIT Hyderabad",
+    "educationRank": 4,
+    "occupation": "Mobile Tech Lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 65,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Prudent investor, enthusiastic plant mom, and lover of regional Indian cuisine.",
+    "about": "Prudent investor, enthusiastic plant mom, and lover of regional Indian cuisine.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 35,
+      "cities": [
+        "Bhopal",
+        "Pune",
+        "Dubai"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "trisha-patil-55",
+    "matchmakerId": "priya",
+    "firstName": "Trisha",
+    "lastName": "Patil",
+    "gender": "woman",
+    "age": 22,
+    "heightCm": 168,
+    "city": "Singapore",
+    "state": "Singapore",
+    "community": "Patel",
+    "gotra": "Kashyap",
+    "motherTongue": "Gujarati",
+    "education": "B.Des, National Institute of Design",
+    "educationRank": 3,
+    "occupation": "Lead Interior Architect",
+    "occupationBucket": "creative",
+    "incomeLakh": 14,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "jain",
+    "values": "balanced",
+    "bio": "Values clear communication, shared laughter over tea, and standing by each other through life's phases.",
+    "about": "Values clear communication, shared laughter over tea, and standing by each other through life's phases.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 26,
+      "cities": [
+        "Singapore",
+        "Dubai",
+        "Chennai"
+      ],
+      "communities": [],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "vaishnavi-shinde-56",
+    "matchmakerId": "rakesh",
+    "firstName": "Vaishnavi",
+    "lastName": "Shinde",
+    "gender": "woman",
+    "age": 38,
+    "heightCm": 161,
+    "city": "Delhi",
+    "state": "Delhi",
+    "community": "Jain",
+    "gotra": "Parshvanath",
+    "motherTongue": "Hindi",
+    "education": "MA Public Policy, NLSIU",
+    "educationRank": 4,
+    "occupation": "Policy Research Specialist, NITI Aayog",
+    "occupationBucket": "public",
+    "incomeLakh": 41,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "jain",
+    "values": "progressive",
+    "bio": "Healthcare specialist who finds peace in yoga, weekend farm visits, and classical music.",
+    "about": "Healthcare specialist who finds peace in yoga, weekend farm visits, and classical music.",
+    "preferences": {
+      "ageMin": 37,
+      "ageMax": 44,
+      "cities": [
+        "Delhi",
+        "Singapore",
+        "Chennai"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "varsha-pawar-57",
+    "matchmakerId": "priya",
+    "firstName": "Varsha",
+    "lastName": "Pawar",
+    "gender": "woman",
+    "age": 32,
+    "heightCm": 164,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Jain",
+    "gotra": "Kashyap",
+    "motherTongue": "Hindi",
+    "education": "B.Tech, BITS Pilani",
+    "educationRank": 4,
+    "occupation": "Staff Software Engineer",
+    "occupationBucket": "tech",
+    "incomeLakh": 61,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "balanced",
+    "bio": "Warm, welcoming hostess who brings positive energy and thoughtful care into every space.",
+    "about": "Warm, welcoming hostess who brings positive energy and thoughtful care into every space.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 36,
+      "cities": [
+        "Hyderabad",
+        "London",
+        "New York"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "vidya-nair-58",
+    "matchmakerId": "rakesh",
+    "firstName": "Vidya",
+    "lastName": "Nair",
+    "gender": "woman",
+    "age": 35,
+    "heightCm": 156,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Punjabi Khatri",
+    "gotra": "Sahni",
+    "motherTongue": "Punjabi",
+    "education": "BA (Hons) History, St. Stephen's; UPSC CSE",
+    "educationRank": 4,
+    "occupation": "Policy Research Specialist, NITI Aayog",
+    "occupationBucket": "public",
+    "incomeLakh": 32,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Loves crisp winter mornings, volunteering on weekends, and heartfelt conversation with elders.",
+    "about": "Loves crisp winter mornings, volunteering on weekends, and heartfelt conversation with elders.",
+    "preferences": {
+      "ageMin": 34,
+      "ageMax": 37,
+      "cities": [
+        "Pune",
+        "Bengaluru",
+        "Mumbai"
+      ],
+      "communities": [
+        "Punjabi Khatri"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "active",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Punjabi Khatri"
+  },
+  {
+    "id": "yamini-menon-59",
+    "matchmakerId": "priya",
+    "firstName": "Yamini",
+    "lastName": "Menon",
+    "gender": "woman",
+    "age": 31,
+    "heightCm": 168,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "community": "Jain",
+    "gotra": "Parshvanath",
+    "motherTongue": "Hindi",
+    "education": "M.Tech, IIIT Hyderabad",
+    "educationRank": 4,
+    "occupation": "Principal Product Manager",
+    "occupationBucket": "tech",
+    "incomeLakh": 59,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "jain",
+    "values": "progressive",
+    "bio": "Creative marketer with an adventurous spirit; enjoys kayaking, baking, and quiet movie nights.",
+    "about": "Creative marketer with an adventurous spirit; enjoys kayaking, baking, and quiet movie nights.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 33,
+      "cities": [
+        "Indore",
+        "Delhi",
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "zara-pillai-60",
+    "matchmakerId": "rakesh",
+    "firstName": "Zara",
+    "lastName": "Pillai",
+    "gender": "woman",
+    "age": 22,
+    "heightCm": 153,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Tamil Brahmin",
+    "gotra": "Kaushika",
+    "motherTongue": "Tamil",
+    "education": "B.Tech & State Admin Services",
+    "educationRank": 3,
+    "occupation": "Deputy Director, Ministry of Commerce",
+    "occupationBucket": "public",
+    "incomeLakh": 12,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Seeking an honest, intellectually curious partner who values kindness and mutual encouragement.",
+    "about": "Seeking an honest, intellectually curious partner who values kindness and mutual encouragement.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 24,
+      "cities": [
+        "Mumbai",
+        "London",
+        "Bengaluru"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "aakash-agarwal-61",
+    "matchmakerId": "priya",
+    "firstName": "Aakash",
+    "lastName": "Agarwal",
+    "gender": "man",
+    "age": 38,
+    "heightCm": 188,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "community": "Punjabi Khatri",
+    "gotra": "Sahni",
+    "motherTongue": "Punjabi",
+    "education": "BA LLB (Hons), NALSAR Hyderabad",
+    "educationRank": 4,
+    "occupation": "Global Supply Chain Lead",
+    "occupationBucket": "other",
+    "incomeLakh": 71,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Early morning cyclist and software architect who never skips Sunday lunch with his parents.",
+    "about": "Early morning cyclist and software architect who never skips Sunday lunch with his parents.",
+    "preferences": {
+      "ageMin": 35,
+      "ageMax": 39,
+      "cities": [
+        "Indore",
+        "Singapore"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Punjabi Khatri"
+  },
+  {
+    "id": "aarav-bansal-62",
+    "matchmakerId": "rakesh",
+    "firstName": "Aarav",
+    "lastName": "Bansal",
+    "gender": "man",
+    "age": 33,
+    "heightCm": 164,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Tamil Brahmin",
+    "gotra": "Haritha",
+    "motherTongue": "Tamil",
+    "education": "B.Com (Hons), Narsee Monjee",
+    "educationRank": 3,
+    "occupation": "Operations Director, Auto Ancillaries",
+    "occupationBucket": "business",
+    "incomeLakh": 63,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Calm, thoughtful problem solver who values straightforward communication and quiet mountain vacations.",
+    "about": "Calm, thoughtful problem solver who values straightforward communication and quiet mountain vacations.",
+    "preferences": {
+      "ageMin": 32,
+      "ageMax": 35,
+      "cities": [
+        "Kolkata"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "abhay-goel-63",
+    "matchmakerId": "priya",
+    "firstName": "Abhay",
+    "lastName": "Goel",
+    "gender": "man",
+    "age": 35,
+    "heightCm": 181,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Reddy",
+    "gotra": "Motati",
+    "motherTongue": "Telugu",
+    "education": "B.E. Computer Science, VJTI",
+    "educationRank": 3,
+    "occupation": "DevOps Lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 77,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Fintech founder with grounded values; loves cooking regional curries and watching cricket test matches.",
+    "about": "Fintech founder with grounded values; loves cooking regional curries and watching cricket test matches.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 36,
+      "cities": [
+        "Pune",
+        "Kolkata",
+        "Bengaluru"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Prefers someone with a calm demeanor. Both parents are retired professionals.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "abhinav-gupta-64",
+    "matchmakerId": "rakesh",
+    "firstName": "Abhinav",
+    "lastName": "Gupta",
+    "gender": "man",
+    "age": 38,
+    "heightCm": 174,
+    "city": "Singapore",
+    "state": "Singapore",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Marathi",
+    "education": "B.Des, National Institute of Design",
+    "educationRank": 3,
+    "occupation": "Creative Producer & Filmmaker",
+    "occupationBucket": "creative",
+    "incomeLakh": 56,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Believes in staying humble, working with purpose, and keeping family at the absolute center of life.",
+    "about": "Believes in staying humble, working with purpose, and keeping family at the absolute center of life.",
+    "preferences": {
+      "ageMin": 35,
+      "ageMax": 40,
+      "cities": [
+        "Singapore",
+        "Chennai",
+        "New York"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "aditya-mittal-65",
+    "matchmakerId": "priya",
+    "firstName": "Aditya",
+    "lastName": "Mittal",
+    "gender": "man",
+    "age": 31,
+    "heightCm": 167,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Jain",
+    "gotra": "Gautam",
+    "motherTongue": "Hindi",
+    "education": "B.Tech & State Admin Services",
+    "educationRank": 3,
+    "occupation": "Deputy Director, Ministry of Commerce",
+    "occupationBucket": "public",
+    "incomeLakh": 27,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "balanced",
+    "bio": "Loves weekend book hunts, black coffee, and driving down coastal highways with classic rock playing.",
+    "about": "Loves weekend book hunts, black coffee, and driving down coastal highways with classic rock playing.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 32,
+      "cities": [
+        "Jaipur",
+        "Chennai",
+        "Kolkata"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "advait-singhal-66",
+    "matchmakerId": "rakesh",
+    "firstName": "Advait",
+    "lastName": "Singhal",
+    "gender": "man",
+    "age": 25,
+    "heightCm": 170,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "B.Tech, IIT Bombay",
+    "educationRank": 4,
+    "occupation": "AI/ML Research Scientist",
+    "occupationBucket": "tech",
+    "incomeLakh": 36,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Empathetic doctor who balances demanding hospital hours with family dinners and badminton matches.",
+    "about": "Empathetic doctor who balances demanding hospital hours with family dinners and badminton matches.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 27,
+      "cities": [
+        "Indore",
+        "Singapore",
+        "London"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "aman-garg-67",
+    "matchmakerId": "priya",
+    "firstName": "Aman",
+    "lastName": "Garg",
+    "gender": "man",
+    "age": 26,
+    "heightCm": 183,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "BA (Hons) History, St. Stephen's; UPSC CSE",
+    "educationRank": 4,
+    "occupation": "Assistant Commissioner, IRS",
+    "occupationBucket": "public",
+    "incomeLakh": 17,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Values emotional stability, mutual respect, and laughing together through life's unexpected twists.",
+    "about": "Values emotional stability, mutual respect, and laughing together through life's unexpected twists.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 28,
+      "cities": [
+        "Hyderabad",
+        "Bengaluru",
+        "Delhi"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "amit-sharma-68",
+    "matchmakerId": "rakesh",
+    "firstName": "Amit",
+    "lastName": "Sharma",
+    "gender": "man",
+    "age": 32,
+    "heightCm": 167,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Reddy",
+    "gotra": "Motati",
+    "motherTongue": "Telugu",
+    "education": "M.Sc International Business, Manchester",
+    "educationRank": 4,
+    "occupation": "Retail Chain Regional Head",
+    "occupationBucket": "business",
+    "incomeLakh": 60,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Curious engineer who tinkers with home automation, plays amateur tennis, and loves lively family dinners.",
+    "about": "Curious engineer who tinkers with home automation, plays amateur tennis, and loves lively family dinners.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 34,
+      "cities": [
+        "Kolkata",
+        "Mumbai",
+        "London"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "anand-verma-69",
+    "matchmakerId": "priya",
+    "firstName": "Anand",
+    "lastName": "Verma",
+    "gender": "man",
+    "age": 35,
+    "heightCm": 168,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Patel",
+    "gotra": "Sandilya",
+    "motherTongue": "Gujarati",
+    "education": "MBA, ISB Hyderabad",
+    "educationRank": 4,
+    "occupation": "Managing Director, Family Textiles",
+    "occupationBucket": "business",
+    "incomeLakh": 73,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "progressive",
+    "bio": "Pragmatic yet warm; believes marriage is about partnership, shared values, and steady encouragement.",
+    "about": "Pragmatic yet warm; believes marriage is about partnership, shared values, and steady encouragement.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 36,
+      "cities": [
+        "Dubai"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "aniket-trivedi-70",
+    "matchmakerId": "rakesh",
+    "firstName": "Aniket",
+    "lastName": "Trivedi",
+    "gender": "man",
+    "age": 27,
+    "heightCm": 166,
+    "city": "Delhi",
+    "state": "Delhi",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "M.Tech, IIIT Hyderabad",
+    "educationRank": 4,
+    "occupation": "Cloud Architect",
+    "occupationBucket": "tech",
+    "incomeLakh": 42,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "progressive",
+    "bio": "Investment analyst who enjoys morning jogging, exploring local street food, and weekend film festivals.",
+    "about": "Investment analyst who enjoys morning jogging, exploring local street food, and weekend film festivals.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 28,
+      "cities": [
+        "Delhi",
+        "Kolkata"
+      ],
+      "communities": [
+        "Malayali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate is independent, lives on own, and values financial transparency and shared home roles.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "aniruddh-pandey-71",
+    "matchmakerId": "priya",
+    "firstName": "Aniruddh",
+    "lastName": "Pandey",
+    "gender": "man",
+    "age": 22,
+    "heightCm": 184,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Tamil Brahmin",
+    "gotra": "Vadhula",
+    "motherTongue": "Tamil",
+    "education": "B.Arch, SPA Delhi",
+    "educationRank": 3,
+    "occupation": "Principal UX Architect",
+    "occupationBucket": "creative",
+    "incomeLakh": 10,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Quiet confidence with deep respect for elders; enjoys weekend carpentry and family get-togethers.",
+    "about": "Quiet confidence with deep respect for elders; enjoys weekend carpentry and family get-togethers.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 24,
+      "cities": [
+        "Pune",
+        "Singapore"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "arjun-mishra-72",
+    "matchmakerId": "rakesh",
+    "firstName": "Arjun",
+    "lastName": "Mishra",
+    "gender": "man",
+    "age": 24,
+    "heightCm": 176,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Jain",
+    "gotra": "Parshvanath",
+    "motherTongue": "Hindi",
+    "education": "M.Com, Shri Ram College of Commerce",
+    "educationRank": 3,
+    "occupation": "VP, Risk Management",
+    "occupationBucket": "finance",
+    "incomeLakh": 26,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Tech lead by day, weekend home chef who loves experimenting with slow-cooked biryanis and pastas.",
+    "about": "Tech lead by day, weekend home chef who loves experimenting with slow-cooked biryanis and pastas.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 26,
+      "cities": [
+        "Dubai"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "armaan-chaturvedi-73",
+    "matchmakerId": "priya",
+    "firstName": "Armaan",
+    "lastName": "Chaturvedi",
+    "gender": "man",
+    "age": 24,
+    "heightCm": 180,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Jamadagni",
+    "motherTongue": "Marathi",
+    "education": "MBA Finance, IIM Ahmedabad",
+    "educationRank": 4,
+    "occupation": "VP, Risk Management",
+    "occupationBucket": "finance",
+    "incomeLakh": 19,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Focused on career growth while ensuring weekends are dedicated to parents, fitness, and relaxation.",
+    "about": "Focused on career growth while ensuring weekends are dedicated to parents, fitness, and relaxation.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 26,
+      "cities": [
+        "Hyderabad",
+        "Delhi",
+        "Chennai"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "aryan-kapoor-74",
+    "matchmakerId": "rakesh",
+    "firstName": "Aryan",
+    "lastName": "Kapoor",
+    "gender": "man",
+    "age": 26,
+    "heightCm": 173,
+    "city": "New York",
+    "state": "United States",
+    "community": "Jain",
+    "gotra": "Parshvanath",
+    "motherTongue": "Hindi",
+    "education": "M.Sc International Business, Manchester",
+    "educationRank": 4,
+    "occupation": "Managing Director, Family Textiles",
+    "occupationBucket": "business",
+    "incomeLakh": 39,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Grounded Punjabi boy who values honesty, close-knit family bonds, and energetic celebratory dinners.",
+    "about": "Grounded Punjabi boy who values honesty, close-knit family bonds, and energetic celebratory dinners.",
+    "preferences": {
+      "ageMin": 24,
+      "ageMax": 28,
+      "cities": [
+        "New York",
+        "Kolkata",
+        "Pune"
+      ],
+      "communities": [],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "ayush-khanna-75",
+    "matchmakerId": "priya",
+    "firstName": "Ayush",
+    "lastName": "Khanna",
+    "gender": "man",
+    "age": 33,
+    "heightCm": 188,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "B.Tech, BITS Pilani",
+    "educationRank": 4,
+    "occupation": "Staff Software Engineer",
+    "occupationBucket": "tech",
+    "incomeLakh": 72,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Civil servant with high integrity, a wry sense of humor, and a genuine interest in social development.",
+    "about": "Civil servant with high integrity, a wry sense of humor, and a genuine interest in social development.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 35,
+      "cities": [
+        "Chennai",
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "bhavin-malhotra-76",
+    "matchmakerId": "rakesh",
+    "firstName": "Bhavin",
+    "lastName": "Malhotra",
+    "gender": "man",
+    "age": 38,
+    "heightCm": 172,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Reddy",
+    "gotra": "Pedakanti",
+    "motherTongue": "Telugu",
+    "education": "MBA, SPJIMR Mumbai",
+    "educationRank": 4,
+    "occupation": "Private Equity Analyst",
+    "occupationBucket": "finance",
+    "incomeLakh": 72,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Believes in financial wisdom, healthy habits, and celebrating both small wins and major milestones.",
+    "about": "Believes in financial wisdom, healthy habits, and celebrating both small wins and major milestones.",
+    "preferences": {
+      "ageMin": 35,
+      "ageMax": 40,
+      "cities": [
+        "Mumbai",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "chetan-sethi-77",
+    "matchmakerId": "priya",
+    "firstName": "Chetan",
+    "lastName": "Sethi",
+    "gender": "man",
+    "age": 24,
+    "heightCm": 164,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Reddy",
+    "gotra": "Motati",
+    "motherTongue": "Telugu",
+    "education": "MBBS, KMC Manipal",
+    "educationRank": 3,
+    "occupation": "Orthopedic Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 22,
+    "maritalStatus": "divorced",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Product director who loves minimalist interiors, indie podcasts, and weekend tennis matches.",
+    "about": "Product director who loves minimalist interiors, indie podcasts, and weekend tennis matches.",
+    "preferences": {
+      "ageMin": 22,
+      "ageMax": 25,
+      "cities": [
+        "Jaipur"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "darshan-bhasin-78",
+    "matchmakerId": "rakesh",
+    "firstName": "Darshan",
+    "lastName": "Bhasin",
+    "gender": "man",
+    "age": 36,
+    "heightCm": 176,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Jamadagni",
+    "motherTongue": "Marathi",
+    "education": "MBA HR, XLRI Jamshedpur",
+    "educationRank": 4,
+    "occupation": "Corporate Legal Counsel",
+    "occupationBucket": "other",
+    "incomeLakh": 65,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Compassionate listener who believes a great partnership starts with transparency and patience.",
+    "about": "Compassionate listener who believes a great partnership starts with transparency and patience.",
+    "preferences": {
+      "ageMin": 34,
+      "ageMax": 37,
+      "cities": [
+        "Kolkata",
+        "Mumbai",
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "dev-chadha-79",
+    "matchmakerId": "priya",
+    "firstName": "Dev",
+    "lastName": "Chadha",
+    "gender": "man",
+    "age": 29,
+    "heightCm": 184,
+    "city": "Delhi",
+    "state": "Delhi",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Marathi",
+    "education": "MBA Finance, IIM Ahmedabad",
+    "educationRank": 4,
+    "occupation": "Portfolio Strategist",
+    "occupationBucket": "finance",
+    "incomeLakh": 37,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Takes work seriously but never takes himself too seriously; avid chess player and weekend hiker.",
+    "about": "Takes work seriously but never takes himself too seriously; avid chess player and weekend hiker.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 30,
+      "cities": [
+        "Delhi"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "dhruv-patel-80",
+    "matchmakerId": "rakesh",
+    "firstName": "Dhruv",
+    "lastName": "Patel",
+    "gender": "man",
+    "age": 33,
+    "heightCm": 173,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "community": "Punjabi Khatri",
+    "gotra": "Sethi",
+    "motherTongue": "Punjabi",
+    "education": "MBA, SPJIMR Mumbai",
+    "educationRank": 4,
+    "occupation": "Investment Banking Associate",
+    "occupationBucket": "finance",
+    "incomeLakh": 56,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Third-generation business owner who respects traditional roots while driving modern expansion.",
+    "about": "Third-generation business owner who respects traditional roots while driving modern expansion.",
+    "preferences": {
+      "ageMin": 32,
+      "ageMax": 34,
+      "cities": [
+        "Indore",
+        "Hyderabad",
+        "London"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Punjabi Khatri"
+  },
+  {
+    "id": "gaurav-shah-81",
+    "matchmakerId": "priya",
+    "firstName": "Gaurav",
+    "lastName": "Shah",
+    "gender": "man",
+    "age": 26,
+    "heightCm": 175,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "community": "Bengali",
+    "gotra": "Kashyap",
+    "motherTongue": "Bengali",
+    "education": "M.Sc International Business, Manchester",
+    "educationRank": 4,
+    "occupation": "Operations Director, Auto Ancillaries",
+    "occupationBucket": "business",
+    "incomeLakh": 37,
+    "maritalStatus": "divorced",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Architect with a keen eye for heritage preservation; enjoys sketching old monuments and quiet reads.",
+    "about": "Architect with a keen eye for heritage preservation; enjoys sketching old monuments and quiet reads.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 28,
+      "cities": [
+        "Bengaluru",
+        "Singapore",
+        "Hyderabad"
+      ],
+      "communities": [
+        "Bengali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Bengali"
+  },
+  {
+    "id": "harsh-mehta-82",
+    "matchmakerId": "rakesh",
+    "firstName": "Harsh",
+    "lastName": "Mehta",
+    "gender": "man",
+    "age": 31,
+    "heightCm": 181,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MBA, ISB Hyderabad",
+    "educationRank": 4,
+    "occupation": "Founder & CEO, D2C Wellness",
+    "occupationBucket": "business",
+    "incomeLakh": 61,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Believes in teamwork, equality at home, and carving out dedicated time for travel every year.",
+    "about": "Believes in teamwork, equality at home, and carving out dedicated time for travel every year.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 33,
+      "cities": [
+        "Jaipur"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "hrithik-desai-83",
+    "matchmakerId": "priya",
+    "firstName": "Hrithik",
+    "lastName": "Desai",
+    "gender": "man",
+    "age": 33,
+    "heightCm": 172,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Punjabi Khatri",
+    "gotra": "Khanna",
+    "motherTongue": "Punjabi",
+    "education": "BA (Hons) History, St. Stephen's; UPSC CSE",
+    "educationRank": 4,
+    "occupation": "Policy Research Specialist, NITI Aayog",
+    "occupationBucket": "public",
+    "incomeLakh": 32,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Warm personality who easily connects across generations; loves family road trips and cricket.",
+    "about": "Warm personality who easily connects across generations; loves family road trips and cricket.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 35,
+      "cities": [
+        "Kolkata",
+        "Pune",
+        "Singapore"
+      ],
+      "communities": [
+        "Punjabi Khatri"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Punjabi Khatri"
+  },
+  {
+    "id": "ishaan-joshi-84",
+    "matchmakerId": "rakesh",
+    "firstName": "Ishaan",
+    "lastName": "Joshi",
+    "gender": "man",
+    "age": 36,
+    "heightCm": 175,
+    "city": "Singapore",
+    "state": "Singapore",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MS in Computer Science, CMU",
+    "educationRank": 4,
+    "occupation": "DevOps Lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 77,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Fitness enthusiast who starts his day at 6 AM and winds down with non-fiction reading and herbal tea.",
+    "about": "Fitness enthusiast who starts his day at 6 AM and winds down with non-fiction reading and herbal tea.",
+    "preferences": {
+      "ageMin": 34,
+      "ageMax": 37,
+      "cities": [
+        "Singapore"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "karan-parikh-85",
+    "matchmakerId": "priya",
+    "firstName": "Karan",
+    "lastName": "Parikh",
+    "gender": "man",
+    "age": 25,
+    "heightCm": 171,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Patel",
+    "gotra": "Kashyap",
+    "motherTongue": "Gujarati",
+    "education": "MBA, SPJIMR Mumbai",
+    "educationRank": 4,
+    "occupation": "VP, Risk Management",
+    "occupationBucket": "finance",
+    "incomeLakh": 27,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Supportive brother and son who wants a partner with her own aspirations and passions.",
+    "about": "Supportive brother and son who wants a partner with her own aspirations and passions.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 26,
+      "cities": [
+        "Mumbai",
+        "Singapore",
+        "London"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "kartik-iyer-86",
+    "matchmakerId": "rakesh",
+    "firstName": "Kartik",
+    "lastName": "Iyer",
+    "gender": "man",
+    "age": 22,
+    "heightCm": 171,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "community": "Tamil Brahmin",
+    "gotra": "Gauthama",
+    "motherTongue": "Tamil",
+    "education": "MDS, Conservative Dentistry",
+    "educationRank": 4,
+    "occupation": "Dental Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 15,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Enjoys open-air live music, brewing espresso, and having long weekend conversations over brunch.",
+    "about": "Enjoys open-air live music, brewing espresso, and having long weekend conversations over brunch.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 23,
+      "cities": [
+        "Indore"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "kunal-iyengar-87",
+    "matchmakerId": "priya",
+    "firstName": "Kunal",
+    "lastName": "Iyengar",
+    "gender": "man",
+    "age": 31,
+    "heightCm": 188,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MBBS, KMC Manipal",
+    "educationRank": 3,
+    "occupation": "Dermatologist & Cosmetologist",
+    "occupationBucket": "medicine",
+    "incomeLakh": 39,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Prudent, disciplined, and genuinely kind; seeks a companion who values family warmth and peace of mind.",
+    "about": "Prudent, disciplined, and genuinely kind; seeks a companion who values family warmth and peace of mind.",
+    "preferences": {
+      "ageMin": 29,
+      "ageMax": 32,
+      "cities": [
+        "Hyderabad"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "madhav-natarajan-88",
+    "matchmakerId": "rakesh",
+    "firstName": "Madhav",
+    "lastName": "Natarajan",
+    "gender": "man",
+    "age": 36,
+    "heightCm": 183,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "community": "Bengali",
+    "gotra": "Kashyap",
+    "motherTongue": "Bengali",
+    "education": "B.Com (Hons), Narsee Monjee",
+    "educationRank": 3,
+    "occupation": "Retail Chain Regional Head",
+    "occupationBucket": "business",
+    "incomeLakh": 81,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Dedicated surgeon who finds relaxation in long evening runs, classical instrumental music, and chess.",
+    "about": "Dedicated surgeon who finds relaxation in long evening runs, classical instrumental music, and chess.",
+    "preferences": {
+      "ageMin": 35,
+      "ageMax": 38,
+      "cities": [
+        "Bhopal",
+        "Delhi",
+        "London"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "active",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Bengali"
+  },
+  {
+    "id": "manish-subramanian-89",
+    "matchmakerId": "priya",
+    "firstName": "Manish",
+    "lastName": "Subramanian",
+    "gender": "man",
+    "age": 25,
+    "heightCm": 168,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MDS, Conservative Dentistry",
+    "educationRank": 4,
+    "occupation": "Orthopedic Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 25,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Believes in mutual compromise, open dialogue, and never letting ego stand in the way of harmony.",
+    "about": "Believes in mutual compromise, open dialogue, and never letting ego stand in the way of harmony.",
+    "preferences": {
+      "ageMin": 22,
+      "ageMax": 26,
+      "cities": [
+        "Bengaluru"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "mayank-raman-90",
+    "matchmakerId": "rakesh",
+    "firstName": "Mayank",
+    "lastName": "Raman",
+    "gender": "man",
+    "age": 22,
+    "heightCm": 168,
+    "city": "London",
+    "state": "United Kingdom",
+    "community": "Patel",
+    "gotra": "Kashyap",
+    "motherTongue": "Gujarati",
+    "education": "MA Public Policy, NLSIU",
+    "educationRank": 4,
+    "occupation": "Assistant Commissioner, IRS",
+    "occupationBucket": "public",
+    "incomeLakh": 12,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Loves weekend drives to the outskirts, visiting organic farmers' markets, and camping under stars.",
+    "about": "Loves weekend drives to the outskirts, visiting organic farmers' markets, and camping under stars.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 23,
+      "cities": [
+        "London"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "naveen-balaji-91",
+    "matchmakerId": "priya",
+    "firstName": "Naveen",
+    "lastName": "Balaji",
+    "gender": "man",
+    "age": 29,
+    "heightCm": 165,
+    "city": "Singapore",
+    "state": "Singapore",
+    "community": "Punjabi Khatri",
+    "gotra": "Khanna",
+    "motherTongue": "Punjabi",
+    "education": "B.Tech & State Admin Services",
+    "educationRank": 3,
+    "occupation": "Policy Research Specialist, NITI Aayog",
+    "occupationBucket": "public",
+    "incomeLakh": 23,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Creative brand strategist who enjoys photography, historic walking tours, and family board games.",
+    "about": "Creative brand strategist who enjoys photography, historic walking tours, and family board games.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 31,
+      "cities": [
+        "Singapore",
+        "Dubai",
+        "London"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Punjabi Khatri"
+  },
+  {
+    "id": "nikhil-reddy-92",
+    "matchmakerId": "rakesh",
+    "firstName": "Nikhil",
+    "lastName": "Reddy",
+    "gender": "man",
+    "age": 25,
+    "heightCm": 166,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "community": "Jain",
+    "gotra": "Parshvanath",
+    "motherTongue": "Hindi",
+    "education": "CFA, Level 3 Qualified",
+    "educationRank": 4,
+    "occupation": "Chartered Accountant",
+    "occupationBucket": "finance",
+    "incomeLakh": 27,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Patient and dependable; values honest communication and making his partner feel genuinely heard.",
+    "about": "Patient and dependable; values honest communication and making his partner feel genuinely heard.",
+    "preferences": {
+      "ageMin": 24,
+      "ageMax": 27,
+      "cities": [
+        "Bengaluru"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "nirav-rao-93",
+    "matchmakerId": "priya",
+    "firstName": "Nirav",
+    "lastName": "Rao",
+    "gender": "man",
+    "age": 27,
+    "heightCm": 183,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Atri",
+    "motherTongue": "Marathi",
+    "education": "MBBS, MS (Surgery), CMC Vellore",
+    "educationRank": 4,
+    "occupation": "Senior Resident, Cardiology",
+    "occupationBucket": "medicine",
+    "incomeLakh": 33,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Passionate about clean tech; spends free time reading philosophy and swimming laps.",
+    "about": "Passionate about clean tech; spends free time reading philosophy and swimming laps.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 28,
+      "cities": [
+        "Kolkata"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "pranav-chowdary-94",
+    "matchmakerId": "rakesh",
+    "firstName": "Pranav",
+    "lastName": "Chowdary",
+    "gender": "man",
+    "age": 24,
+    "heightCm": 187,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Agarwal",
+    "gotra": "Kansal",
+    "motherTongue": "Hindi",
+    "education": "B.Tech & State Admin Services",
+    "educationRank": 3,
+    "occupation": "Deputy Director, Ministry of Commerce",
+    "occupationBucket": "public",
+    "incomeLakh": 16,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Rooted in South Indian cultural traditions, enjoys carnatic flute, and loves cooking for the family.",
+    "about": "Rooted in South Indian cultural traditions, enjoys carnatic flute, and loves cooking for the family.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 25,
+      "cities": [
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Agarwal"
+  },
+  {
+    "id": "prateek-naidu-95",
+    "matchmakerId": "priya",
+    "firstName": "Prateek",
+    "lastName": "Naidu",
+    "gender": "man",
+    "age": 30,
+    "heightCm": 169,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Patel",
+    "gotra": "Vatsa",
+    "motherTongue": "Gujarati",
+    "education": "MBA HR, XLRI Jamshedpur",
+    "educationRank": 4,
+    "occupation": "Management Consultant",
+    "occupationBucket": "other",
+    "incomeLakh": 38,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Straightforward and transparent; believes a strong relationship thrives on trust and lighthearted humor.",
+    "about": "Straightforward and transparent; believes a strong relationship thrives on trust and lighthearted humor.",
+    "preferences": {
+      "ageMin": 27,
+      "ageMax": 31,
+      "cities": [
+        "Jaipur"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "rahul-varma-96",
+    "matchmakerId": "rakesh",
+    "firstName": "Rahul",
+    "lastName": "Varma",
+    "gender": "man",
+    "age": 27,
+    "heightCm": 187,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "community": "Reddy",
+    "gotra": "Gudati",
+    "motherTongue": "Telugu",
+    "education": "B.Tech, BITS Pilani",
+    "educationRank": 4,
+    "occupation": "Cloud Architect",
+    "occupationBucket": "tech",
+    "incomeLakh": 44,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Corporate attorney with a calm demeanor; loves weekend tennis, history books, and filter coffee.",
+    "about": "Corporate attorney with a calm demeanor; loves weekend tennis, history books, and filter coffee.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 29,
+      "cities": [
+        "Chennai",
+        "Pune",
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "rajesh-banerjee-97",
+    "matchmakerId": "priya",
+    "firstName": "Rajesh",
+    "lastName": "Banerjee",
+    "gender": "man",
+    "age": 37,
+    "heightCm": 179,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Reddy",
+    "gotra": "Gudati",
+    "motherTongue": "Telugu",
+    "education": "M.Tech, IIIT Hyderabad",
+    "educationRank": 4,
+    "occupation": "Staff Software Engineer",
+    "occupationBucket": "tech",
+    "incomeLakh": 89,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Family-oriented entrepreneur who values simple pleasures, evening walks, and deep loyalty.",
+    "about": "Family-oriented entrepreneur who values simple pleasures, evening walks, and deep loyalty.",
+    "preferences": {
+      "ageMin": 36,
+      "ageMax": 38,
+      "cities": [
+        "Pune",
+        "Delhi",
+        "London"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate is independent, lives on own, and values financial transparency and shared home roles.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "rishi-mukherjee-98",
+    "matchmakerId": "rakesh",
+    "firstName": "Rishi",
+    "lastName": "Mukherjee",
+    "gender": "man",
+    "age": 31,
+    "heightCm": 178,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Reddy",
+    "gotra": "Pakanati",
+    "motherTongue": "Telugu",
+    "education": "MBA, ISB Hyderabad",
+    "educationRank": 4,
+    "occupation": "Retail Chain Regional Head",
+    "occupationBucket": "business",
+    "incomeLakh": 67,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Enjoys curating jazz playlists, exploring coastal seafood spots, and spending quiet Sundays at home.",
+    "about": "Enjoys curating jazz playlists, exploring coastal seafood spots, and spending quiet Sundays at home.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 33,
+      "cities": [
+        "Hyderabad"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "intro_pending",
+    "verified": false,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "rohan-chatterjee-99",
+    "matchmakerId": "priya",
+    "firstName": "Rohan",
+    "lastName": "Chatterjee",
+    "gender": "man",
+    "age": 29,
+    "heightCm": 177,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "M.Tech, IIIT Hyderabad",
+    "educationRank": 4,
+    "occupation": "DevOps Lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 51,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Optimistic and grounded; believes in building a loving home filled with warmth, respect, and laughter.",
+    "about": "Optimistic and grounded; believes in building a loving home filled with warmth, respect, and laughter.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 30,
+      "cities": [
+        "Dubai",
+        "Bengaluru"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "rohit-bose-100",
+    "matchmakerId": "rakesh",
+    "firstName": "Rohit",
+    "lastName": "Bose",
+    "gender": "man",
+    "age": 25,
+    "heightCm": 183,
+    "city": "Singapore",
+    "state": "Singapore",
+    "community": "Reddy",
+    "gotra": "Gudati",
+    "motherTongue": "Telugu",
+    "education": "B.E. Computer Science, VJTI",
+    "educationRank": 3,
+    "occupation": "AI/ML Research Scientist",
+    "occupationBucket": "tech",
+    "incomeLakh": 32,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Tech consultant who travels often for work but treasures coming home to home-cooked meals.",
+    "about": "Tech consultant who travels often for work but treasures coming home to home-cooked meals.",
+    "preferences": {
+      "ageMin": 22,
+      "ageMax": 27,
+      "cities": [
+        "Singapore",
+        "Delhi",
+        "Mumbai"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "sachin-ghosh-101",
+    "matchmakerId": "priya",
+    "firstName": "Sachin",
+    "lastName": "Ghosh",
+    "gender": "man",
+    "age": 23,
+    "heightCm": 180,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Vashishta",
+    "motherTongue": "Marathi",
+    "education": "MBA, ISB Hyderabad",
+    "educationRank": 4,
+    "occupation": "Managing Director, Family Textiles",
+    "occupationBucket": "business",
+    "incomeLakh": 30,
+    "maritalStatus": "divorced",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Believes in giving 100% to both profession and family; avid runner and amateur landscape painter.",
+    "about": "Believes in giving 100% to both profession and family; avid runner and amateur landscape painter.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 24,
+      "cities": [
+        "Kolkata"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "sahil-sen-102",
+    "matchmakerId": "rakesh",
+    "firstName": "Sahil",
+    "lastName": "Sen",
+    "gender": "man",
+    "age": 28,
+    "heightCm": 163,
+    "city": "New York",
+    "state": "United States",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MBBS, KMC Manipal",
+    "educationRank": 3,
+    "occupation": "Orthopedic Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 31,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Respectful of tradition with progressive values; loves festival gatherings and quiet evening reads.",
+    "about": "Respectful of tradition with progressive values; loves festival gatherings and quiet evening reads.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 29,
+      "cities": [
+        "New York",
+        "Dubai",
+        "Mumbai"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Prefers someone with a calm demeanor. Both parents are retired professionals.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "samar-jain-103",
+    "matchmakerId": "priya",
+    "firstName": "Samar",
+    "lastName": "Jain",
+    "gender": "man",
+    "age": 29,
+    "heightCm": 168,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Atri",
+    "motherTongue": "Marathi",
+    "education": "M.Arch, CEPT University",
+    "educationRank": 4,
+    "occupation": "Creative Producer & Filmmaker",
+    "occupationBucket": "creative",
+    "incomeLakh": 28,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Calm presence in high-stress situations; values balance, fitness, and spending quality time with elders.",
+    "about": "Calm presence in high-stress situations; values balance, fitness, and spending quality time with elders.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 30,
+      "cities": [
+        "Mumbai"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "sameer-lodha-104",
+    "matchmakerId": "rakesh",
+    "firstName": "Sameer",
+    "lastName": "Lodha",
+    "gender": "man",
+    "age": 27,
+    "heightCm": 188,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "B.Tech, IIT Bombay",
+    "educationRank": 4,
+    "occupation": "VP of Engineering",
+    "occupationBucket": "tech",
+    "incomeLakh": 40,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Easygoing nature, loyal to friends and family; enjoys weekend barbecue sessions and classic cinema.",
+    "about": "Easygoing nature, loyal to friends and family; enjoys weekend barbecue sessions and classic cinema.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 28,
+      "cities": [
+        "Jaipur"
+      ],
+      "communities": [
+        "Malayali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family prefers same or allied community, but candidate is open to broad matches if values align.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "sanjay-kothari-105",
+    "matchmakerId": "priya",
+    "firstName": "Sanjay",
+    "lastName": "Kothari",
+    "gender": "man",
+    "age": 38,
+    "heightCm": 187,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "Master of Fine Arts, JJ School of Art",
+    "educationRank": 3,
+    "occupation": "Lead Interior Architect",
+    "occupationBucket": "creative",
+    "incomeLakh": 55,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Driven operations director who values punctuality, mutual support, and sharing life's daily highlights.",
+    "about": "Driven operations director who values punctuality, mutual support, and sharing life's daily highlights.",
+    "preferences": {
+      "ageMin": 36,
+      "ageMax": 39,
+      "cities": [
+        "Kolkata",
+        "Bengaluru",
+        "Singapore"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "sarthak-surana-106",
+    "matchmakerId": "rakesh",
+    "firstName": "Sarthak",
+    "lastName": "Surana",
+    "gender": "man",
+    "age": 22,
+    "heightCm": 165,
+    "city": "Delhi",
+    "state": "Delhi",
+    "community": "Tamil Brahmin",
+    "gotra": "Haritha",
+    "motherTongue": "Tamil",
+    "education": "B.Tech, BITS Pilani",
+    "educationRank": 4,
+    "occupation": "Principal Product Manager",
+    "occupationBucket": "tech",
+    "incomeLakh": 19,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Enjoys outdoor trekking, wildlife photography, and deep conversations about human nature and society.",
+    "about": "Enjoys outdoor trekking, wildlife photography, and deep conversations about human nature and society.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 24,
+      "cities": [
+        "Delhi",
+        "Hyderabad",
+        "Bengaluru"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Tamil Brahmin"
+  },
+  {
+    "id": "saurabh-bhandari-107",
+    "matchmakerId": "priya",
+    "firstName": "Saurabh",
+    "lastName": "Bhandari",
+    "gender": "man",
+    "age": 27,
+    "heightCm": 185,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "MBBS, MS (Surgery), CMC Vellore",
+    "educationRank": 4,
+    "occupation": "Senior Resident, Cardiology",
+    "occupationBucket": "medicine",
+    "incomeLakh": 29,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Warm, grounded CA who values family guidance and looks forward to building a meaningful future together.",
+    "about": "Warm, grounded CA who values family guidance and looks forward to building a meaningful future together.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 28,
+      "cities": [
+        "Dubai"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "shashank-khan-108",
+    "matchmakerId": "rakesh",
+    "firstName": "Shashank",
+    "lastName": "Khan",
+    "gender": "man",
+    "age": 37,
+    "heightCm": 169,
+    "city": "Singapore",
+    "state": "Singapore",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "B.Tech, IIT Bombay",
+    "educationRank": 4,
+    "occupation": "Mobile Tech Lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 86,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Pragmatic thinker who enjoys financial planning, cycling along scenic routes, and family dinners.",
+    "about": "Pragmatic thinker who enjoys financial planning, cycling along scenic routes, and family dinners.",
+    "preferences": {
+      "ageMin": 36,
+      "ageMax": 39,
+      "cities": [
+        "Singapore"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Warm family background. Mother is keen on vegetarian household; candidate is slightly more flexible.",
+    "status": "active",
+    "verified": false,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": false,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "shivam-ahmed-109",
+    "matchmakerId": "priya",
+    "firstName": "Shivam",
+    "lastName": "Ahmed",
+    "gender": "man",
+    "age": 27,
+    "heightCm": 186,
+    "city": "Dubai",
+    "state": "United Arab Emirates",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Marathi",
+    "education": "MDS, Conservative Dentistry",
+    "educationRank": 4,
+    "occupation": "Dermatologist & Cosmetologist",
+    "occupationBucket": "medicine",
+    "incomeLakh": 28,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Curious mind with an interest in global affairs, world cinema, and regular badminton sessions.",
+    "about": "Curious mind with an interest in global affairs, world cinema, and regular badminton sessions.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 28,
+      "cities": [
+        "Dubai",
+        "Kolkata"
+      ],
+      "communities": [
+        "Maharashtrian Brahmin"
+      ],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate is independent, lives on own, and values financial transparency and shared home roles.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "siddharth-syed-110",
+    "matchmakerId": "rakesh",
+    "firstName": "Siddharth",
+    "lastName": "Syed",
+    "gender": "man",
+    "age": 37,
+    "heightCm": 169,
+    "city": "New York",
+    "state": "United States",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "BA (Hons) History, St. Stephen's; UPSC CSE",
+    "educationRank": 4,
+    "occupation": "Deputy Director, Ministry of Commerce",
+    "occupationBucket": "public",
+    "incomeLakh": 39,
+    "maritalStatus": "divorced",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Values honesty and emotional presence above everything; loves cooking breakfast on Sunday mornings.",
+    "about": "Values honesty and emotional presence above everything; loves cooking breakfast on Sunday mornings.",
+    "preferences": {
+      "ageMin": 36,
+      "ageMax": 38,
+      "cities": [
+        "New York",
+        "Pune",
+        "Mumbai"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family has strong roots in the community but candidate is modern in lifestyle and communication.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Islam",
+    "caste": "Hyderabadi Muslim"
+  },
+  {
+    "id": "soham-qureshi-111",
+    "matchmakerId": "priya",
+    "firstName": "Soham",
+    "lastName": "Qureshi",
+    "gender": "man",
+    "age": 38,
+    "heightCm": 185,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Maharashtrian Brahmin",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Marathi",
+    "education": "Master of Fine Arts, JJ School of Art",
+    "educationRank": 3,
+    "occupation": "Principal UX Architect",
+    "occupationBucket": "creative",
+    "incomeLakh": 53,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "balanced",
+    "bio": "Software engineer with an adventurous streak; enjoys mountain climbing, scuba diving, and quiet tea.",
+    "about": "Software engineer with an adventurous streak; enjoys mountain climbing, scuba diving, and quiet tea.",
+    "preferences": {
+      "ageMin": 36,
+      "ageMax": 40,
+      "cities": [
+        "Jaipur"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "active",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Maharashtrian Brahmin"
+  },
+  {
+    "id": "tanmay-mirza-112",
+    "matchmakerId": "rakesh",
+    "firstName": "Tanmay",
+    "lastName": "Mirza",
+    "gender": "man",
+    "age": 24,
+    "heightCm": 184,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Reddy",
+    "gotra": "Motati",
+    "motherTongue": "Telugu",
+    "education": "BA (Hons) History, St. Stephen's; UPSC CSE",
+    "educationRank": 4,
+    "occupation": "Policy Research Specialist, NITI Aayog",
+    "occupationBucket": "public",
+    "incomeLakh": 16,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Kind-hearted and responsible; seeks an authentic partnership where both people can be their true selves.",
+    "about": "Kind-hearted and responsible; seeks an authentic partnership where both people can be their true selves.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 26,
+      "cities": [
+        "Jaipur"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "tarun-kulkarni-113",
+    "matchmakerId": "priya",
+    "firstName": "Tarun",
+    "lastName": "Kulkarni",
+    "gender": "man",
+    "age": 28,
+    "heightCm": 189,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Reddy",
+    "gotra": "Pedakanti",
+    "motherTongue": "Telugu",
+    "education": "MA Public Policy, NLSIU",
+    "educationRank": 4,
+    "occupation": "Assistant Commissioner, IRS",
+    "occupationBucket": "public",
+    "incomeLakh": 22,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Believes laughter and mutual respect keep a marriage resilient; loves comedy clubs and indie movies.",
+    "about": "Believes laughter and mutual respect keep a marriage resilient; loves comedy clubs and indie movies.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 30,
+      "cities": [
+        "Kolkata",
+        "Singapore",
+        "Bengaluru"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Candidate prioritizes emotional connection and mutual respect over strict horoscope matching.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "uday-deshmukh-114",
+    "matchmakerId": "rakesh",
+    "firstName": "Uday",
+    "lastName": "Deshmukh",
+    "gender": "man",
+    "age": 27,
+    "heightCm": 181,
+    "city": "Delhi",
+    "state": "Delhi",
+    "community": "Patel",
+    "gotra": "Sandilya",
+    "motherTongue": "Gujarati",
+    "education": "CA, First Attempt (Ranked)",
+    "educationRank": 4,
+    "occupation": "VP, Risk Management",
+    "occupationBucket": "finance",
+    "incomeLakh": 33,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Family-first professional who appreciates heritage architecture, traditional rituals, and good literature.",
+    "about": "Family-first professional who appreciates heritage architecture, traditional rituals, and good literature.",
+    "preferences": {
+      "ageMin": 23,
+      "ageMax": 29,
+      "cities": [
+        "Delhi"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "utkarsh-patil-115",
+    "matchmakerId": "priya",
+    "firstName": "Utkarsh",
+    "lastName": "Patil",
+    "gender": "man",
+    "age": 24,
+    "heightCm": 166,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Reddy",
+    "gotra": "Pakanati",
+    "motherTongue": "Telugu",
+    "education": "BA LLB (Hons), NALSAR Hyderabad",
+    "educationRank": 4,
+    "occupation": "Management Consultant",
+    "occupationBucket": "other",
+    "incomeLakh": 22,
+    "maritalStatus": "widowed",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Grounded, health-conscious, and loves weekend nature retreats away from city hustle.",
+    "about": "Grounded, health-conscious, and loves weekend nature retreats away from city hustle.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 26,
+      "cities": [
+        "Jaipur",
+        "Mumbai",
+        "Dubai"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Prefers someone with a calm demeanor. Both parents are retired professionals.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Reddy"
+  },
+  {
+    "id": "varun-shinde-116",
+    "matchmakerId": "rakesh",
+    "firstName": "Varun",
+    "lastName": "Shinde",
+    "gender": "man",
+    "age": 28,
+    "heightCm": 173,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Patel",
+    "gotra": "Kashyap",
+    "motherTongue": "Gujarati",
+    "education": "CFA, Level 3 Qualified",
+    "educationRank": 4,
+    "occupation": "Portfolio Strategist",
+    "occupationBucket": "finance",
+    "incomeLakh": 41,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "balanced",
+    "bio": "Dedicated professional with a creative side; loves playing acoustic guitar and cooking family meals.",
+    "about": "Dedicated professional with a creative side; loves playing acoustic guitar and cooking family meals.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 30,
+      "cities": [
+        "Jaipur",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Extremely well-spoken; clear about career aspirations and expects an intellectually equal partner.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Patel"
+  },
+  {
+    "id": "vedant-pawar-117",
+    "matchmakerId": "priya",
+    "firstName": "Vedant",
+    "lastName": "Pawar",
+    "gender": "man",
+    "age": 34,
+    "heightCm": 170,
+    "city": "Singapore",
+    "state": "Singapore",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "B.Des, National Institute of Design",
+    "educationRank": 3,
+    "occupation": "Brand & Design Director",
+    "occupationBucket": "creative",
+    "incomeLakh": 48,
+    "maritalStatus": "never_married",
+    "familyType": "flexible",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Patient, emotionally mature, and looking for a meaningful life partnership grounded in shared values.",
+    "about": "Patient, emotionally mature, and looking for a meaningful life partnership grounded in shared values.",
+    "preferences": {
+      "ageMin": 31,
+      "ageMax": 35,
+      "cities": [
+        "Singapore",
+        "Kolkata",
+        "Mumbai"
+      ],
+      "communities": [],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "intro_pending",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "vikas-nair-118",
+    "matchmakerId": "rakesh",
+    "firstName": "Vikas",
+    "lastName": "Nair",
+    "gender": "man",
+    "age": 26,
+    "heightCm": 169,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "community": "Jain",
+    "gotra": "Kashyap",
+    "motherTongue": "Hindi",
+    "education": "BA LLB (Hons), NALSAR Hyderabad",
+    "educationRank": 4,
+    "occupation": "Corporate Legal Counsel",
+    "occupationBucket": "other",
+    "incomeLakh": 23,
+    "maritalStatus": "divorced",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Loves discovering offbeat destinations, road-tripping with cousins, and brewing the perfect pour-over.",
+    "about": "Loves discovering offbeat destinations, road-tripping with cousins, and brewing the perfect pour-over.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 27,
+      "cities": [
+        "Pune",
+        "Dubai",
+        "Bengaluru"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent to settle down within 6-12 months. Open-minded parents who respect candidate's choice.",
+    "status": "intro_pending",
+    "verified": false,
+    "wantKids": false,
+    "openToRelocate": true,
+    "openToPets": true,
+    "religion": "Jainism",
+    "caste": "Jain"
+  },
+  {
+    "id": "vikram-menon-119",
+    "matchmakerId": "priya",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "gender": "man",
+    "age": 24,
+    "heightCm": 175,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "MA Public Policy, NLSIU",
+    "educationRank": 4,
+    "occupation": "Assistant Commissioner, IRS",
+    "occupationBucket": "public",
+    "incomeLakh": 14,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "eggetarian",
+    "values": "traditional",
+    "bio": "Dependable and honest; values clear communication, domestic tranquility, and shared laughter.",
+    "about": "Dependable and honest; values clear communication, domestic tranquility, and shared laughter.",
+    "preferences": {
+      "ageMin": 21,
+      "ageMax": 26,
+      "cities": [
+        "Bengaluru",
+        "Singapore",
+        "Pune"
+      ],
+      "communities": [
+        "Malayali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High-achiever professionally, very grounded personally. Flexible on city for the right person.",
+    "status": "active",
+    "verified": true,
+    "wantKids": true,
+    "openToRelocate": true,
+    "openToPets": false,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  },
+  {
+    "id": "yash-pillai-120",
+    "matchmakerId": "rakesh",
+    "firstName": "Yash",
+    "lastName": "Pillai",
+    "gender": "man",
+    "age": 31,
+    "heightCm": 190,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Malayali",
+    "motherTongue": "Malayalam",
+    "education": "MBBS, MS (Surgery), CMC Vellore",
+    "educationRank": 4,
+    "occupation": "Consultant Pediatrician",
+    "occupationBucket": "medicine",
+    "incomeLakh": 41,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Driven yet grounded; looking for a kind, forward-thinking partner to build a joyful life with.",
+    "about": "Driven yet grounded; looking for a kind, forward-thinking partner to build a joyful life with.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 32,
+      "cities": [
+        "Hyderabad"
+      ],
+      "communities": [
+        "Malayali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Very polite and articulate on the phone. Family is well-settled and values good education.",
+    "status": "on_hold",
+    "verified": true,
+    "wantKids": false,
+    "openToRelocate": false,
+    "openToPets": true,
+    "religion": "Hindu",
+    "caste": "Malayali"
+  }
+]

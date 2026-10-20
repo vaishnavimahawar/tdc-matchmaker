@@ -1,0 +1,747 @@
+[
+  {
+    "id": "ananya-sharma",
+    "matchmakerId": "priya",
+    "firstName": "Ananya",
+    "lastName": "Sharma",
+    "gender": "woman",
+    "age": 28,
+    "heightCm": 165,
+    "city": "Delhi",
+    "state": "Delhi",
+    "community": "Agarwal",
+    "gotra": "Garg",
+    "motherTongue": "Hindi",
+    "education": "MBA, FMS Delhi",
+    "educationRank": 4,
+    "occupation": "Strategy consultant",
+    "occupationBucket": "finance",
+    "incomeLakh": 32,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Warm, organised, and close to her parents in Greater Kailash. Wants a partner who takes work seriously but still shows up for family dinners.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 34,
+      "cities": [
+        "Delhi",
+        "Gurgaon",
+        "Noida",
+        "Mumbai"
+      ],
+      "communities": [
+        "Agarwal"
+      ],
+      "diets": [
+        "veg",
+        "jain"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family is flexible on city if the boy is well-settled. Avoid very joint-family setups.",
+    "status": "active"
+  },
+  {
+    "id": "meera-iyer",
+    "matchmakerId": "priya",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "gender": "woman",
+    "age": 31,
+    "heightCm": 162,
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "community": "Tamil Brahmin",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Tamil",
+    "education": "B.Tech, IIT Madras",
+    "educationRank": 4,
+    "occupation": "Product lead",
+    "occupationBucket": "tech",
+    "incomeLakh": 48,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Iyer family, but Meera has lived independently for a decade. Loves filter coffee, hiking, and quiet Sunday reading.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 36,
+      "cities": [
+        "Bangalore",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Parents prefer same community. She is open if values and education line up.",
+    "status": "active"
+  },
+  {
+    "id": "priya-patel",
+    "matchmakerId": "priya",
+    "firstName": "Priya",
+    "lastName": "Patel",
+    "gender": "woman",
+    "age": 26,
+    "heightCm": 160,
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "community": "Patel",
+    "motherTongue": "Gujarati",
+    "education": "CA",
+    "educationRank": 4,
+    "occupation": "Chartered accountant",
+    "occupationBucket": "finance",
+    "incomeLakh": 18,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Grounded and family-first. Helps run her father's trading office after work. Wants someone respectful with elders.",
+    "preferences": {
+      "ageMin": 27,
+      "ageMax": 32,
+      "cities": [
+        "Ahmedabad",
+        "Surat",
+        "Vadodara",
+        "Mumbai"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "veg",
+        "jain"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Strong preference for Gujarati Patel, vegetarian, joint family comfortable.",
+    "status": "intro_pending"
+  },
+  {
+    "id": "rhea-kapoor",
+    "matchmakerId": "priya",
+    "firstName": "Rhea",
+    "lastName": "Kapoor",
+    "gender": "woman",
+    "age": 29,
+    "heightCm": 168,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Punjabi Khatri",
+    "gotra": "Kapoor",
+    "motherTongue": "Punjabi",
+    "education": "Bachelor's in Design, NID",
+    "educationRank": 3,
+    "occupation": "Brand designer",
+    "occupationBucket": "creative",
+    "incomeLakh": 22,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "eggetarian",
+    "values": "progressive",
+    "bio": "Bandra girl with a big laugh. Wants a partner who is emotionally available and not threatened by her career.",
+    "preferences": {
+      "ageMin": 29,
+      "ageMax": 36,
+      "cities": [
+        "Mumbai",
+        "Delhi",
+        "Pune"
+      ],
+      "communities": [],
+      "diets": [
+        "veg",
+        "eggetarian",
+        "non_veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Community is a plus, not a must. Chemistry and communication matter more.",
+    "status": "active"
+  },
+  {
+    "id": "kavya-reddy",
+    "matchmakerId": "rakesh",
+    "firstName": "Kavya",
+    "lastName": "Reddy",
+    "gender": "woman",
+    "age": 27,
+    "heightCm": 163,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Reddy",
+    "gotra": "Pakanati",
+    "motherTongue": "Telugu",
+    "education": "MBBS, NIMS",
+    "educationRank": 4,
+    "occupation": "Resident doctor",
+    "occupationBucket": "medicine",
+    "incomeLakh": 16,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Long hospital hours, close-knit Reddy family in Banjara Hills. Wants someone who understands medical schedules.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 34,
+      "cities": [
+        "Hyderabad",
+        "Bangalore"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible",
+        "nuclear"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Family likes doctors or well-settled professionals. Same community preferred.",
+    "status": "active"
+  },
+  {
+    "id": "ishita-banerjee",
+    "matchmakerId": "rakesh",
+    "firstName": "Ishita",
+    "lastName": "Banerjee",
+    "gender": "woman",
+    "age": 30,
+    "heightCm": 161,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Bengali",
+    "gotra": "Kashyap",
+    "motherTongue": "Bengali",
+    "education": "Master's in Journalism",
+    "educationRank": 3,
+    "occupation": "Culture journalist",
+    "occupationBucket": "creative",
+    "incomeLakh": 14,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Adda, books, and Durga Puja. Looking for a kind intellectual, not a flashy lifestyle.",
+    "preferences": {
+      "ageMin": 30,
+      "ageMax": 37,
+      "cities": [
+        "Kolkata",
+        "Delhi",
+        "Bangalore"
+      ],
+      "communities": [
+        "Bengali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Mother is particular about Bengali culture. Father is more flexible.",
+    "status": "on_hold"
+  },
+  {
+    "id": "nisha-jain",
+    "matchmakerId": "rakesh",
+    "firstName": "Nisha",
+    "lastName": "Jain",
+    "gender": "woman",
+    "age": 28,
+    "heightCm": 158,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Jain",
+    "motherTongue": "Hindi",
+    "education": "MBA, NMIMS",
+    "educationRank": 4,
+    "occupation": "Runs family jewellery retail",
+    "occupationBucket": "business",
+    "incomeLakh": 24,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Graceful, business-minded, and very close to her grandmother. Jain food is non-negotiable at home.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 33,
+      "cities": [
+        "Jaipur",
+        "Delhi",
+        "Udaipur",
+        "Mumbai"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Diet and Jain community are hard preferences for the family.",
+    "status": "active"
+  },
+  {
+    "id": "zara-khan",
+    "matchmakerId": "rakesh",
+    "firstName": "Zara",
+    "lastName": "Khan",
+    "gender": "woman",
+    "age": 32,
+    "heightCm": 166,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "M.Arch, CEPT",
+    "educationRank": 4,
+    "occupation": "Architect",
+    "occupationBucket": "creative",
+    "incomeLakh": 20,
+    "maritalStatus": "divorced",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Thoughtful, private, and rebuilding with a lot of clarity. Wants honesty more than a perfect biodata.",
+    "preferences": {
+      "ageMin": 32,
+      "ageMax": 40,
+      "cities": [
+        "Hyderabad",
+        "Bangalore",
+        "Mumbai"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Open to never-married men who are mature about a past marriage. Handle with extra care.",
+    "status": "active"
+  },
+  {
+    "id": "arjun-malhotra",
+    "matchmakerId": "priya",
+    "firstName": "Arjun",
+    "lastName": "Malhotra",
+    "gender": "man",
+    "age": 32,
+    "heightCm": 180,
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "community": "Agarwal",
+    "gotra": "Mittal",
+    "motherTongue": "Hindi",
+    "education": "MBA, IIM Ahmedabad",
+    "educationRank": 4,
+    "occupation": "SaaS founder",
+    "occupationBucket": "business",
+    "incomeLakh": 85,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "balanced",
+    "bio": "Calm operator, travels often, still home most weekends with his mother. Looking for a partner, not an audience.",
+    "preferences": {
+      "ageMin": 26,
+      "ageMax": 32,
+      "cities": [
+        "Delhi",
+        "Gurgaon",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "communities": [
+        "Agarwal"
+      ],
+      "diets": [
+        "veg",
+        "jain"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "High intent. Family likes educated, warm girls. Not looking for a purely social match.",
+    "status": "active"
+  },
+  {
+    "id": "rohan-iyer",
+    "matchmakerId": "priya",
+    "firstName": "Rohan",
+    "lastName": "Iyer",
+    "gender": "man",
+    "age": 33,
+    "heightCm": 175,
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "community": "Tamil Brahmin",
+    "gotra": "Kashyapa",
+    "motherTongue": "Tamil",
+    "education": "MS, Stanford",
+    "educationRank": 4,
+    "occupation": "Staff engineer",
+    "occupationBucket": "tech",
+    "incomeLakh": 72,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "veg",
+    "values": "progressive",
+    "bio": "Soft-spoken, very close to his sister. Wants someone independent who still enjoys Tamil family rituals.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 33,
+      "cities": [
+        "Bangalore",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "communities": [
+        "Tamil Brahmin"
+      ],
+      "diets": [
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Parents want same gotra avoided, same community strongly preferred.",
+    "status": "active"
+  },
+  {
+    "id": "vikram-patel",
+    "matchmakerId": "priya",
+    "firstName": "Vikram",
+    "lastName": "Patel",
+    "gender": "man",
+    "age": 29,
+    "heightCm": 172,
+    "city": "Surat",
+    "state": "Gujarat",
+    "community": "Patel",
+    "motherTongue": "Gujarati",
+    "education": "CA",
+    "educationRank": 4,
+    "occupation": "Partner at family CA firm",
+    "occupationBucket": "finance",
+    "incomeLakh": 28,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "veg",
+    "values": "traditional",
+    "bio": "Straight-talking, rooted in Surat, visits Ahmedabad often. Wants a homely partner who can grow into the family business circle.",
+    "preferences": {
+      "ageMin": 24,
+      "ageMax": 28,
+      "cities": [
+        "Ahmedabad",
+        "Surat",
+        "Vadodara"
+      ],
+      "communities": [
+        "Patel"
+      ],
+      "diets": [
+        "veg",
+        "jain"
+      ],
+      "familyTypes": [
+        "joint",
+        "flexible"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Joint family is a feature, not a bug. Be explicit about that on calls.",
+    "status": "active"
+  },
+  {
+    "id": "aditya-kapoor",
+    "matchmakerId": "priya",
+    "firstName": "Aditya",
+    "lastName": "Kapoor",
+    "gender": "man",
+    "age": 31,
+    "heightCm": 178,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "community": "Punjabi Khatri",
+    "gotra": "Sethi",
+    "motherTongue": "Punjabi",
+    "education": "MBA, ISB",
+    "educationRank": 4,
+    "occupation": "Private equity associate",
+    "occupationBucket": "finance",
+    "incomeLakh": 54,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Work-hard, host-well energy. Wants a partner with her own world, not someone waiting at home.",
+    "preferences": {
+      "ageMin": 27,
+      "ageMax": 32,
+      "cities": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore"
+      ],
+      "communities": [
+        "Punjabi Khatri"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian",
+        "veg"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Open beyond community if the girl is confident and well-educated.",
+    "status": "intro_pending"
+  },
+  {
+    "id": "nikhil-reddy",
+    "matchmakerId": "rakesh",
+    "firstName": "Nikhil",
+    "lastName": "Reddy",
+    "gender": "man",
+    "age": 30,
+    "heightCm": 176,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Reddy",
+    "gotra": "Pakanati",
+    "motherTongue": "Telugu",
+    "education": "MS, General Surgery",
+    "educationRank": 4,
+    "occupation": "Surgeon",
+    "occupationBucket": "medicine",
+    "incomeLakh": 40,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "non_veg",
+    "values": "balanced",
+    "bio": "Gentle with patients, punctual with family. Knows marriage will need calendar honesty.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 30,
+      "cities": [
+        "Hyderabad"
+      ],
+      "communities": [
+        "Reddy"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "joint",
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Same gotra as Kavya Reddy — do not introduce those two.",
+    "status": "active"
+  },
+  {
+    "id": "dev-banerjee",
+    "matchmakerId": "rakesh",
+    "firstName": "Dev",
+    "lastName": "Banerjee",
+    "gender": "man",
+    "age": 33,
+    "heightCm": 174,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "community": "Bengali",
+    "gotra": "Sandilya",
+    "motherTongue": "Bengali",
+    "education": "BA, St. Stephen's; IAS",
+    "educationRank": 4,
+    "occupation": "Civil servant",
+    "occupationBucket": "public",
+    "incomeLakh": 19,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "traditional",
+    "bio": "Quietly ambitious, posted between Kolkata and Delhi. Wants a partner who can handle transfers with humour.",
+    "preferences": {
+      "ageMin": 27,
+      "ageMax": 32,
+      "cities": [
+        "Kolkata",
+        "Delhi"
+      ],
+      "communities": [
+        "Bengali"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Transfers are real. Flag lifestyle implications early.",
+    "status": "active"
+  },
+  {
+    "id": "harsh-jain",
+    "matchmakerId": "rakesh",
+    "firstName": "Harsh",
+    "lastName": "Jain",
+    "gender": "man",
+    "age": 31,
+    "heightCm": 170,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "community": "Jain",
+    "motherTongue": "Hindi",
+    "education": "B.Com, family business",
+    "educationRank": 2,
+    "occupation": "Jewellery house, third generation",
+    "occupationBucket": "business",
+    "incomeLakh": 45,
+    "maritalStatus": "never_married",
+    "familyType": "joint",
+    "diet": "jain",
+    "values": "traditional",
+    "bio": "Practical, generous with family, a little shy on first calls. Wants a partner who can host and hold the home.",
+    "preferences": {
+      "ageMin": 25,
+      "ageMax": 30,
+      "cities": [
+        "Jaipur",
+        "Udaipur",
+        "Delhi"
+      ],
+      "communities": [
+        "Jain"
+      ],
+      "diets": [
+        "jain",
+        "veg"
+      ],
+      "familyTypes": [
+        "joint"
+      ],
+      "minEducationRank": 2
+    },
+    "matchmakerNotes": "Education rank is lower than Nisha's MBA — still a culturally strong pair. Explain that.",
+    "status": "active"
+  },
+  {
+    "id": "sameer-khan",
+    "matchmakerId": "rakesh",
+    "firstName": "Sameer",
+    "lastName": "Khan",
+    "gender": "man",
+    "age": 34,
+    "heightCm": 179,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "community": "Hyderabadi Muslim",
+    "motherTongue": "Urdu",
+    "education": "B.Arch, SPA Delhi",
+    "educationRank": 3,
+    "occupation": "Studio architect",
+    "occupationBucket": "creative",
+    "incomeLakh": 18,
+    "maritalStatus": "never_married",
+    "familyType": "nuclear",
+    "diet": "non_veg",
+    "values": "progressive",
+    "bio": "Design-led life, close to his mother, no rush to look 'settled' on paper. Wants a thoughtful equal.",
+    "preferences": {
+      "ageMin": 28,
+      "ageMax": 34,
+      "cities": [
+        "Hyderabad",
+        "Bangalore",
+        "Mumbai"
+      ],
+      "communities": [
+        "Hyderabadi Muslim"
+      ],
+      "diets": [
+        "non_veg",
+        "eggetarian"
+      ],
+      "familyTypes": [
+        "nuclear",
+        "flexible"
+      ],
+      "minEducationRank": 3
+    },
+    "matchmakerNotes": "Comfortable with a previously married partner if the conversation is honest.",
+    "status": "active"
+  }
+]
